@@ -1,0 +1,206 @@
+[
+  {
+    "Interrogator": "So why did Swati get angry with the man, and what were they talking about?",
+    "Interrogee": "Basically, the man was talking about the hierarchy level in the hospital, that the manager has to do less work, and the workers under him have to do more work without receiving credit. He specifically pointed out Swati, saying she is one of them, and Swati, being a receptionist, has to do less work. So she got angry.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what was Swati's profession?",
+    "Interrogee": "She was a receptionist in the hospital.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "From whom did Swati get the call, and what was the policy?",
+    "Interrogee": "I think Swati got the call from Rupal, who claims to be the wife of Vikas, a man working in the same hospital. The hospital's policy is not to share employee details with anyone.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, can you describe the husband of the woman whose call Swati got?",
+    "Interrogee": "Her husband, named Vikas, is working in the hospital but not in the same hospital. He works in another branch, and that's it.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "hy was Swati afraid and what did the woman tell her?",
+    "Interrogee": "The woman told her that her husband left the house two months ago and he didn't even call once, so she's worried about him. That's why Swati was afraid, thinking they should complain to the police that her husband has been missing for two months.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Swati reply when the woman asked about her husband?",
+    "Interrogee": "Rupal pleaded to share her husband's number so she could call him. However, Swati denied giving out the information, citing the hospital's policy against sharing employee details.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why did Rupal call again the next day, and what did she say to Swati?",
+    "Interrogee": "Since Swati denied sharing details the previous day, Rupal called again, crying, and explained that her husband has been missing for two months after a fight. She didn't know where he was, and Swati felt emotional hearing this.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did Rupal call again?",
+    "Interrogee": "Yes, she called again the next day.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Rupal say when she called Swati again?",
+    "Interrogee": "She started crying and then shared that her husband had been missing for the past two months after a serious fight. She reiterated her desperate need for help.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, what did Swati do after she got the call again?",
+    "Interrogee": "She told Rupal they wait for some time I will ask it from my senior that could I share the number or not and then she asked and cut the call and then she asked from the manager about this and manager replied that first asked from Vikas if she know any Rupal or not and then after that she share the detail to Rupal",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did Swati call Vikas?",
+    "Interrogee": "Yes, Swati called Vikas.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did she tell any of the other working people in the hospital about this incident?",
+    "Interrogee": "No, only two or three receptionists knew about it because they were in the same cabin. Later, when Swati informed the manager, a few more people got to know.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did anyone try to help Swati?",
+    "Interrogee": "Yes, the manager tried to help. The manager told Swati to ask Vikas if he knew anyone named Rupal.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Vikas say?",
+    "Interrogee": "Vikas stated he was not married and didn't know anyone named Rupal.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did Swati and the manager react upon hearing that Vikas didn't know Rupal and wasn't married?",
+    "Interrogee": "Initially, Swati suspected that Vikas might be lying due to marital issues. The manager also called Vikas to inquire further, but Vikas continued to deny any knowledge of Rupal or being married.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "so what happened after she called Vikas",
+    "Interrogee": "When Swati called Vikas Swati asked that if he know any Rupal but Vikas denied that he didn't know any Rupal and he's bachelor till now.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after Swati called Vikas?",
+    "Interrogee": "After calling Vikas, they suspected he might be lying due to marital issues.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after this call?",
+    "Interrogee": "After this call, they still suspected Vikas was lying. The manager called Vikas again, but Vikas reiterated that he didn't know Rupal and wasn't married.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened at the end?",
+    "Interrogee": "Rupal called another receptionist, claiming Vikas's wife had changed her name and was in the hospital.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what reality was revealed at the end? Who was Rupal? And what was her intention?",
+    "Interrogee": "Rupal was not Vikas's wife; it was a prank call. She called everyone to extract money from them.",
+    "Annotations": [
+      [
+        "Facts",
+        5
+      ]
+    ]
+  }
+]

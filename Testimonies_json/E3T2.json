@@ -1,0 +1,210 @@
+[
+  {
+    "Interrogator": "Describe the woman who entered the apartment and why did she come to that apartment.",
+    "Interrogee": "So she was black skinned woman and she was wearing Kurta and she was carrying a carry bag in her hand and she was the maid of the House and she was there to do her duty.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what did the maid see upon entering the apartment",
+    "Interrogee": "So upon entering the apartments she see that all the apartment was ruined and all the stuff was scattered here and there and there was splashes of blood on the floor and footprints of blood and the when she enter the inner room she found that the owner mistress of the house was unconscious and she assumed her to be dead and the owner of the house was dead and his its throat was cut.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Can you describe the people who the maid assumed to be dead?",
+    "Interrogee": "So the mistress of the house, her whole body was blue, and it can be assumed that she was poisoned and the owner of the house, his throat was cut with some sharp object and he was bleeding bad. And there was blood in all in the room and he was a dead.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So upon seeing this did the maid inform anyone?",
+    "Interrogee": "Yes, she was continuously on call with a man named Baban who was her partner as soon as she saw the dead bodies. She got scared and she called and she told Baban that the both the mistress and the owner is dead and she wants to inform the police but Baban said that their is no need to inform the police now and I will be there in some time. And you do not need to be scared then laxmi propose a plan to rob the house taking it as an opportunity.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Whose plan was it to rob the house?",
+    "Interrogee": "It was Lakshmi's plan.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did she inform Baban about her plan?",
+    "Interrogee": "No, she didn't mention Baban about this plan. Baban was just coming there to help",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "help her for what?",
+    "Interrogee": "She was scared so he was coming there to comfort her.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did anyone else knocked the door or tried to enter the house while this event was happening?",
+    "Interrogee": "Yes, there were several people who tried to enter the house. First of all, there was the neighbor who wanted some favor, but I maid fend them off and say that there is no one in the house right now. And then there was newspaper delivery guy and milkman.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the maid doing in the apartment after encountering the incident?",
+    "Interrogee": "After this, she was robbing the apartment. She was taking the stuff whatever she can get, the money the jewelry. And she was, she later started cleaning the apartment and making it look like that she was never there and she was planning to rob so that she can get all the money.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so what did she do to make sure that no one realizes that she has robbed the house like you mentioned.",
+    "Interrogee": "So she. Firstly, she robbed the house but to make it that she didn't robbed the houses. He first make sure that no one notices that sh entered the house, then she started clear clearing the floor of her footmarks. And then there was the camera she started thrashing the camera and there was the desktop in which the camera feed was going she also try to destroy that desktop.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did she inform anyone apart from Baban that the owner of the house were dead",
+    "Interrogee": "No she didn't inform anyone",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so what happened while she was robbing the house,",
+    "Interrogee": "So while she was robbing the house, she noticed that the mistress of the house is still alive, and she was breathing. Then she then she goes to check, to ensure that she is well, if the mistress of the houses is well then she inform this to Baban that the mistress of the house is still alive, then she try to make up for what she did. She tried to place the stuff that stole back into their places but till then the mistress of the house has seen everything and she walks up and she confronts the maid. And later police arrived at the scene she says that the maid is the one who killed my husband and she was robbing my house and the police should take her away.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What about Baban?",
+    "Interrogee": "Baban was just listening all this on the phone while on his way to the apartment. So he was unable to do anything.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the Baban's reaction do you know?",
+    "Interrogee": "Baban's reaction was that he was although he was not informed about the plan about the robbing but since there was sound of stuff being put into the bag and he asked multiple time to the Lakshmi what she was doing. So when Lakshmi was caught, he was also discouraged that he lost the chance to earn a lot of money.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did Baban help making the police realize that she did not attempt any murder,",
+    "Interrogee": "Baban never reach the apartment and the Lakshmi was taken into custody by the police in the apartment. So he never met the police.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you mentioned about milkman and other people who came to the apartment. Didn't They recognize that it was the maid",
+    "Interrogee": "No, she she just put a slip and in that he wrote that do not disturb and put the stuff in near the below the gate near the gate.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So No one suspected that something wrong is happening in this house.",
+    "Interrogee": "No no-one suspected that until the police arrived at the scene.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Do you know call the police?",
+    "Interrogee": "It was the mistress of the house who called the police as she was pretending to be dead which she was actually not dead. And she was the one who killed her husband. And she wanted to frame Lakshmi for that.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How do you know that she killed her husband? Did you witness her killing him?",
+    "Interrogee": "No, it was not shown but she while she confronted Lakshmi. She was smiling and she was she was happy that the the her plan worked. And she also confessed that yes, I killed my husband and now you are robbing my house and you will frame for that robbery as well as that murder.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you're saying that the owner of the house the woman was guilty?",
+    "Interrogee": "Yes, she confessed.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  }
+]

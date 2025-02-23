@@ -1,0 +1,376 @@
+[
+  {
+    "Interrogator": "What vehicle was the man who wanted a lift driving and what had happened to it",
+    "Interrogee": "His name is Shanky and he had a car and the car got damaged",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Can you describe that car and how did that got damaged?",
+    "Interrogee": "Yes the car is of blue color , it's Audi blue color. Okay and then he and the car got damaged and there was a problem, there was a internal problem and the car is not able to start.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ],
+      [
+        "Character_Description",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How do you how do you know that?",
+    "Interrogee": "Yes the man told Kunal that there's internal problem in the car and and he needs mechanic",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "He as you said he had an expensive car so he left that car in the middle of the road and just went with a stranger",
+    "Interrogee": "Yes, he locked the car and and he thought that when you go to the home he will send someone to pick up the car or sent the mechanic",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did you hear him telling this",
+    "Interrogee": "Kunal told him that someone might someone might steal that car but Shanky said that it is locked and no one will harm the car",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was Kunal interested in in his car",
+    "Interrogee": "No, just he was casually asking that it's a mid-night and it it is Delhi and here crime happens more so just be safe about it",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "so was Kunal willing to help him at first",
+    "Interrogee": "Yes because he saw him in trouble",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So he was willing to help him",
+    "Interrogee": "Firstly he denied that because he wants to reach to the party early as he's already late. So firstly he denied that he has no extra time to drop you to your home",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the profession of both men",
+    "Interrogee": "Kunal was a photographer on and Shanky was in IT",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where did they stop while they were driving on the road?",
+    "Interrogee": "They stopped at the tea stall.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, what was the conversation between the two men when they were riding the bike?",
+    "Interrogee": "When they were riding, they both asked each other about their profession, and then they were talking about the nature and the crime rate in Delhi. They did not talk about anything else, and there was also a mention of a serial killer who killed five people in Delhi, so they were only talking about criminal affairs.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, what conversation happened while in the tea stall or was there any conversation?",
+    "Interrogee": "There was no more conversation. At last, Kunal gives the money to the tea stall, but Shanky told him that he already offered him the lift, so let him give the money for tea.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So at the tea stall, the man who got the lift paid?",
+    "Interrogee": "No, Kunal, at last, told that he regularly visits this place, and he offered him the tea. That's why he wants to.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so to whose house did they go and buy?",
+    "Interrogee": "Shanky's house.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So describe that place.",
+    "Interrogee": "It is in a remote place, and no other buildings were there. And it is far away from the city.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So wasn't Kunal scared of going there?",
+    "Interrogee": "Yes, he also asked him why you live here. But Shanky told that he wants space as he belongs to a village. And he's an IT guy, so most of the time he lives during the daytime in the IT office and then in the town. So he didn't like noise. So he lived here for peace.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Can you describe the house of the man who had the car?",
+    "Interrogee": "Yeah, Shanky was a little rich and has a good, big, and luxurious house.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so did you witness both of them entering the house?",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay so why did Kunal go to that house and you told me that he had some party to attend?",
+    "Interrogee": "Yeah, Shanky offered him the drink, but he firstly denied, and then he continuously offered him, but he told that he has to go to the party and click some pics as it is his profession, and if he will not reach the party on time, he will miss clicking pictures, and it's his job. But Shanky anyhow convinced him that you are going to the party, so drink something and then go, you will have a good feeling.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "In Shanky's house, did you witness anyone else?",
+    "Interrogee": "A driver and a guard.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So like any family members?",
+    "Interrogee": "No, there was no one.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did you witness them talking about their family members?",
+    "Interrogee": "Yes, Shanky told that his wife went to his mother's home for 15 days.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "When did they have this conversation?",
+    "Interrogee": "During when both entered the house.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, did the man whose house they were going talk about his family? Did you witness any of that?",
+    "Interrogee": "Yeah, when they entered the house, Kunal saw no one, there's no one, family members. So he asked where is your family then? Shanky told that his wife and children went to the mother's place, and he also asked about Kunal's family, and he told that he has a wife, and he is happy with them.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, do you think that they were lying? Or did you know that they were lying?",
+    "Interrogee": "I don't think so. I'm not sure.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You don't know if they were talking correctly about their family, but they both acted naturally, so maybe it's true or maybe not.",
+    "Interrogee": "Okay, so what happened inside that house?",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "They started drinking and had a conversation about the crime rate in Delhi, and there is a serial killer who already killed five people. After some time, Kunal started acting, attacking Shanky, that he's the same serial killer, and he already killed five people, and you are the sixth one. So he also attacked Shanky with a knife.",
+    "Interrogee": "So was that man injured?",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "No, it's a prank. The knife was fake.",
+    "Interrogee": "Yes, anyhow Shanky escaped from that. He firstly didn't know if it was a prank or not. So firstly escaped from that, and after some time, Kunal told him that it's a prank.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, after realizing it was a prank, how did that man react?",
+    "Interrogee": "He was in anger, but after some time, Kunal told that he was sorry, and he will not do it next time.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So okay, so Kunal was dead. How did that happen?",
+    "Interrogee": "Yes, firstly, Kunal did the prank on Shanky, and after some time, Shanky started conversation, and they and Shanky said uneven things like he already killed many people, and I'm going to kill you, and he attacked with a knife.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "With a knife. Did he stab him?",
+    "Interrogee": "He stabbed him at the heart or chest, but then there was blood all around.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did he mention the reason for killing, do you know about the reason?",
+    "Interrogee": "Yeah, he told that he didn't like the person who has a good wife and who was happy with the wife.",
+    "Annotations": [
+      [
+        "Facts",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why do you know why that was the reason?",
+    "Interrogee": "Because I've already told you that there was no one in the home except him. So might be he, his wife cheated on him or anything else.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Are you sure about it?",
+    "Interrogee": "No, I'm not sure, and I think that he may be cheated with his wife. So that's why he kills a person.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You don't know, you have not heard any conversation regarding the?",
+    "Interrogee": "Yes, I didn't.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, the man who stabbed Kunal did not mention about his family members at all?",
+    "Interrogee": "No, Shanky told that his family, his wife, and children went to the mother's place, so that's why there's no one in the house.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what was the problem?",
+    "Interrogee": "I think the man was a psycho or something else.\"",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  }
+]

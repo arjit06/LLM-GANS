@@ -1,0 +1,220 @@
+[
+  {
+    "Interrogator": "Describe the man who took the ride.",
+    "Interrogee": "So the man was wearing a checked shirt, white check shirt and he was going to attend a wedding party, and he was talking to his friend and waiting for the cab to come.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how did he book the cab.",
+    "Interrogee": "He didn't book the cab he actually asked his friend to book a cab for him.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so his friend book the cab?",
+    "Interrogee": "Yes, he booked the cab.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, He was in a hurry or he had time to reach the venue?",
+    "Interrogee": "He was in hurry to reach the destination.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So his friend booked the cab and the cab came?",
+    "Interrogee": "Yes",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the cab was on time or it was late?",
+    "Interrogee": "The cab was on time.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe the conversation between the cab driver and that man.",
+    "Interrogee": "So they were talking about driver's the family, where he said that said that he has two children Salmaan and Selma and a wife and that they have gone too far from him.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe the appearance of taxi driver.",
+    "Interrogee": "So he was wearing a white cap and he appeared to be a Muslim to me.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did he forgot his wallet?",
+    "Interrogee": "So he,he left his wallet accidentally in his room and therefore he didn't have money to pay to the cab driver.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what did he offer the driver",
+    "Interrogee": "Instead of money the passenger offered his Apple Watch,",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "But he can call his friend, because he was at a wedding party.,he can call his friend and his friend can pay.",
+    "Interrogee": "So, the passenger saw that the cab drivers watch was broken, that it was not working. So, he also felt bad for the like the driver and therefore, that was an act of kindness also.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did the driver accept the watch or not?",
+    "Interrogee": "Yes, the driver instantly accepted the watch.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ],
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Then what happened after",
+    "Interrogee": "after that he went to the to the to the party where he received a message that the person who was supposed to be a driver was being killed and that they have sent someone else. And that was the person who came to pick him up.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the nature of the driver?",
+    "Interrogee": "The drivers was aggressive at first and then he became soft",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What type of aggressive?",
+    "Interrogee": "He was a bit rude to the to the passenger as he believed that they all are very rich and they exploit the poor and that kind of thing.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And then why did he told all this to the person?",
+    "Interrogee": "He did not tell everything, he said that the driver was waiting for some time for the passenger and the driver was agitated by the fact that he was not being punctual.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "But you said that the man was in hurry and he was waiting for the cab?",
+    "Interrogee": "Yeah, but he was also late.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the cab was not at the right place, like where the location was.",
+    "Interrogee": "No, the cab came on time but the man was late.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, is there any suspecious conversation that you heard between the person and the cab driver",
+    "Interrogee": "No, no, they they both eventually become very friendly. They both were talking in a very friendly manner. So there was no suspicious act that I witnessed",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did the driver told the passenger that one of the drivers met with the accident and he is another one.",
+    "Interrogee": "No, after his ride was over and he was going to the party, he received a message saying that that the driver who was supposed to pick him up has died and that someone else will be replaced.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So that was replaced by that driver, who took the ride.",
+    "Interrogee": "I don't know",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "Interrogator": "So describe the man to whom the bag was handed over.",
+    "Interrogee": "So this man was like a bit fat and had chubby cheeks and long bronze hair and had light colored eyes. It was either blue or brown. I don't particularly remember. And he was middle aged, I am not sure about it",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "where was that place?",
+    "Interrogee": "It was a dark place. I don't know where it was. It was dark",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Like it was in the town or outside the town, the bag was handed over to",
+    "Interrogee": "I think it was a town .",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Can you describe a scenario of that place.",
+    "Interrogee": "So, there were like buildings and like noise and I could hear children playing sound also, it was that kind of place. I guess it is was near an apartment or, like, the garage space or somewhere.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did they come there?",
+    "Interrogee": "I don't know.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Like which vehicle they used. How they came.",
+    "Interrogee": "I don't know about the fat man. But this another person came in a bike. That's what I saw.",
+    "Annotations": [
+      [
+        "Facts",
+        1
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So who was the man waiting for and what happened at the end of his wait.",
+    "Interrogee": "So this man was waiting for another person. While he was waiting he was smoking also. So this other person comes up in his bike and hands over a briefcase to this man and whispered something in his ear which was not audible",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what did the two men do when they met?",
+    "Interrogee": "So, so they were drinking heavily and smoking?",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so Are they friends?",
+    "Interrogee": "They are friends, and they were having a conversation about the plight of the man whose mother is ill.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Can you describe that woman whose mother is ill?",
+    "Interrogee": "It is the same man I described before. He was fat and he was white. Long bronze hair, light colored eyes.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "okay, so did they have any conversation?",
+    "Interrogee": "Yes, they had a conversation about how this man's mother was ill and the cancer she had survived earlier came back and this time he had no money.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So where did they meet?",
+    "Interrogee": "In the in, in like a bar.",
+    "Annotations": [
+      [
+        "Facts",
+        1
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So it was usual place or did they meet at the new place?",
+    "Interrogee": "They met at the bar.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So they came there daily ?",
+    "Interrogee": "I don't know.",
+    "Annotations": [
+      [
+        "Facts",
+        1
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what adversity was the man in white shirt going through.",
+    "Interrogee": "So the man's mother had survived a cancer before and the cancer came back and this time he did not have any money to treat his mother.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what type of job they are doing?",
+    "Interrogee": "I don't know. I have not heard about.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, What was the suggestion given to the man in white shirt by the man in the blue shirt?",
+    "Interrogee": "So, the blue shirt man who was a friend, told him that he can earn money by doing illegal things. And for that he has to join a gang where the blue shirt man is and there he kills people and extracts money from them and he can do it and earn a lot of money,",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the reaction of the white shirt man.",
+    "Interrogee": "The white shirt man was startled by the idea of his friend and he was like, I am not going to do anything illegal and he denied to do it.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What work did he say he was doing and how did the man in white shirt react after the man in the blue shirt suggested the plan?",
+    "Interrogee": "So the man in blue shirt said that I murder people and I extract money from them and that's what my gang does. And you should do that. His friend was excited about the idea.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And how did the man in the blue shirt react when the other man told him that his work was not legal.",
+    "Interrogee": "So the blue shirt man said that through legal ways he cannot earn a lot of money and therefore he has to use the illegal ways to make money.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So Did he agree to do that?",
+    "Interrogee": "Yes, he was excited about killing people.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you said firstly he denied and then how you can say he was excited to know t",
+    "Interrogee": "No, I think he was excited.",
+    "Annotations": [
+      [
+        "Facts",
+        1.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And describe what you observed in the scene where a man was sitting in the car",
+    "Interrogee": "So while he was sitting in the car, he was smoking and he seemed impatient.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "what happened when he went inside inside the house.",
+    "Interrogee": "So when he went inside the house of his friend, he killed him with his gun. I heard the shots of the gun I did not witness him killing his friend.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the whites shirt man's motive was to kill that person.",
+    "Interrogee": "I don't know",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did he get any money for that contract?",
+    "Interrogee": "No, I don't know",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, then how he agreed with that contract.",
+    "Interrogee": "I don't know why he killed him and I did not see any money in his hand. I did not see the dealing of money or I did not see anything with like money",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You said that he got excited to to kill people. But firstly, he denied that he will not do illegal work . So how can you relate with all this and And he didn't take money.",
+    "Interrogee": "I did not see him taking money. He like I saw I know that. This man killed his friend.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, did he kill anyone inside the house?",
+    "Interrogee": "There was scream of that woman but I don't think she was killed by this man.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So there was no killing.",
+    "Interrogee": "No, only the earlier what I said the white shirt man killed his friend who was in the blue shirt.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, he killed his friend.",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why can you explain?",
+    "Interrogee": "I do not know. Maybe he got a contract. He joined the gang and then he got a contract to kill him only.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so you said you that blue shirt man killed the white shirt man And he got the contract to kill that man.",
+    "Interrogee": "I believe that he could have I do not exactly know.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So in these all event how many people were murdered andkilled",
+    "Interrogee": "so only one person was murdered as far as remember.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "Interrogator": "What was the condition of a man who entered the cab?",
+    "Interrogee": "The man, the customer who entered the cab was seemingly very tired and frustrated. It was as if he has had a long day, and he was coming from some corporate job or something. He was really tired and frustrated.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the driver reciprocate on asking for a ride?",
+    "Interrogee": "The driver said that he is done for the day, and he is not taking any more rides. He is going home. Still, the customer insisted that he should not refuse, just take him. Then the driver accepted.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why was the passenger sad?",
+    "Interrogee": "The passenger was a senior consultant at the ASEAN Consult ASEAN Cooperation Limited, and he just found out that his wife has an affair with a neighbor. He also has a daughter who was worried about her future and how he should react to the wife's affair. He was frustrated with his wife, that's it.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "After hearing the passenger's story, how did the driver respond?",
+    "Interrogee": "After hearing the passenger's story, the driver, earlier, the passenger said that he wants to go to Marine Drive, but the driver took him to some random under-construction bridge that was not complete to the edge of it, and he started telling him his story. He told how he came to Mumbai, then he did all kinds of jobs to make a survival. Then he fell in love with a girl, and then the girl also got an affair with his neighbor. And earlier, the girl forced him to not live with his parents. And despite all these odds, since he left the girl, he stayed with that girl until the girl cheated on him. So, he was comparing his situation with the customer.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And why did the driver and the driver take him to the remote place?",
+    "Interrogee": "The customer was confused between deciding whether he should commit suicide or he should kill his wife. Then the driver reveals that he was also planning to kill his wife; he has his wife hostage in his car trunk, and he was going to some random railway track to die. But then since the customer came in, he also wanted to die, so he took him to a bridge, and then with the car, he jumped from the bridge, the end of the bridge.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the driver's story about?",
+    "Interrogee": "Driver's story was that since he came to Mumbai to earn his living, he did all kinds of jobs. Then he fell in love with a girl, married her, and started driving a cab after some time. He had only one demand from the girl, that he wanted to live in a joint family with his parents, but the girl refused and wanted a separate house. Despite his relatives' advice to leave her, he stayed with her because he loved her. Later, he found out that his wife was having an affair with his neighbor. He kidnapped her and kept her hostage in his car, intending to die with her.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who was in the back of the car?",
+    "Interrogee": "Driver's wife.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was she doing there?",
+    "Interrogee": "She was kept as a hostage, and the driver thought that if they couldn't live together happily, they would die together.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where was the taxi parked in the end, and what was the intention of the driver?",
+    "Interrogee": "The taxi was parked at the edge of an under-construction bridge. Initially, the driver decided to go to a railway track to die in a car accident with a train, but when the customer with a similar story came, he decided to die with him, so he jumped the car from the bridge's edge.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "But it was an extramarital affair. You said, then why did the driver say that extramarital affair is common?",
+    "Interrogee": "He also said that harassment cases are normal.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay. Then did the driver tell his own story, you said?",
+    "Interrogee": "Yeah, he also told his story that his wife had an extramarital affair with the neighbor, but he loved her too much, so he forgave her.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Does the driver have kids?",
+    "Interrogee": "No, the driver didn't have kids. He wanted kids, but his wife refused to have them.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what was the driver's story about? Give a brief description.",
+    "Interrogee": "The driver initially told that he came to Mumbai and did many odd jobs like cleaning up the beach and selling chickpeas on the beach. Then he fell in love with a girl, got married, and they bought a taxi to start driving.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so his first job was not being a taxi driver.",
+    "Interrogee": "He came to Mumbai poor, without money to buy a taxi, so he did all the hard work, including cleaning and working in a hotel.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did you ever see his wife?",
+    "Interrogee": "No, I didn't see her.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did you witness any women?",
+    "Interrogee": "No, I didn't witness any.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was there something else in the car that you saw?",
+    "Interrogee": "Yeah, when he got to that railway track, there was movement from the backside of the taxi. The passenger asked him what that was. The taxi was shaking because the driver's wife was in the taxi, and he wanted to kill her.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You said they reached somewhere. Where was that place?",
+    "Interrogee": "He reached on the track of the railway station, in the middle of the track, and he wanted to kill her.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how did he plan to kill his wife?",
+    "Interrogee": "He firstly tried to kill her in the home. But he was unsuccessful as he loved her. So he wanted to commit suicide, and both will die together. And then the passenger arrived. And then he is also in the taxi, and the taxi. He put the taxi on the track, and then a train came and hit the taxi.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So all three of them died.",
+    "Interrogee": "I don't know either all die or not. It was not shown in the video.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So when they were when the taxi driver was moving to the tracks, the passenger did not notice that.",
+    "Interrogee": "No, as they were talking, and they were deeply talking to each other. So the passenger didn't see anything, didn't know that where he was going.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where was the taxi parked in the end, and what was the intention of the drivers?",
+    "Interrogee": "The taxi was parked on the middle of the railway track, and he wants to commit suicide with his wife.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did the taxi driver tell about his intention to the passengers?",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did he talk about his intention? Did the taxi driver talk about his intention to the passengers?",
+    "Interrogee": "Yeah, he told that he loved his wife too much. So he didn't have the courage to kill her. So he wanted that both of us have suicide and both will die.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how did the passenger react?",
+    "Interrogee": "Firstly, he got panic and started to get out of the taxi. But the taxi was locked, and so he told the driver to open the door. But he was unsuccessful, driver denied to open the door.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did the driver mention the reason as to why the passenger should not survive?",
+    "Interrogee": "I don't know.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You didn't hear anything?",
+    "Interrogee": "Yeah, I didn't know. I might.",
+    "Annotations": [
+      [
+        "Facts",
+        1.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did the passenger have any kids?",
+    "Interrogee": "He didn't mention about his kids.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  }
+]

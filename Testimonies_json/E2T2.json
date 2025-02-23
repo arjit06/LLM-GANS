@@ -1,0 +1,190 @@
+[
+  {
+    "Interrogator": "What news was announced on the radio",
+    "Interrogee": "So on the radio it was announced that there has been a car accident in the nearby highway and it has been close for some time and people should use your alternate routes.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did the car owner buy while he was on the way?",
+    "Interrogee": "So while he was on the way he grabbed some drinks. And he also had a cup of tea and he was carrying some snacks packet like some chips and some Doritos, etc.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who did the man encounter while driving?",
+    "Interrogee": "So while driving the man encountered another man who was carrying a small child and his car was broken. And he was asking for help and men gave him lift.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why did the man extend an offer to give a ride to the stranger?",
+    "Interrogee": "So the driver was going along, and the destination was same, so man offered him the lift thinking that it would be nice to help someone else.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the driver extended an offer and not the man insisted, you're saying,",
+    "Interrogee": "Yes,the driver extended the offer without any conditions.",
+    "Annotations": [
+      [
+        "Facts",
+        2
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What were they conversing while they were on the way?",
+    "Interrogee": "So they were talking about the best route that they can take. And the man in the behind was saying that the route you are taking will have a lot of check posts and traffic and you should avoid this and take the alternate route.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who was the passenger carrying alongside?",
+    "Interrogee": "So there was a small child who the passenger was carrying and there was a carry bag that he was carrying a blue color big trolley bag.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did the how old do you think the child was?",
+    "Interrogee": "So child was approximately two to three year old at most",
+    "Annotations": [
+      [
+        "Character_Description",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "what was the behavior of the child when they were in the car?",
+    "Interrogee": "The child was sleeping all the time. And then when the child woke up, he was quite agressive he was throwing hands at both the driver and the man sitting at the back",
+    "Annotations": [
+      [
+        "Character_Description",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So why did the passenger in the car requested the driver to alter the route?",
+    "Interrogee": "So for altering the route the passenger said that there will be multiple checkposts in this route and also there will be a lot of traffic. But the actual reason was that the passenger was the kidnapper and he was avoiding the police.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you're saying that the man, the passenger was the kidnapper and the child who he was with was being kidnapped?",
+    "Interrogee": "Yes. He was a kidnapper and child was being.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why wasn't the child reacting? You are saying that he was just being aggressive. Why wasn't he crying?",
+    "Interrogee": "I don't know , I didn't really know the child's behavior was with The kidnapper might i,t might be the case that kidnapper might be some familiar to the child. But it was never mentioned in the video.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so what happened when the car came to a halt in the middle of the farm?",
+    "Interrogee": "So the car driver steps out and he tries to call the police. And then the man sitting in the back steps out of the car, saying that he's going to take a break. And then he realizes that he has been identified since the car driver was reading the newspaper and there was a news article regarding the kidnapping. So the men try to go back into the car but then he then the car driver locks the car and then they both start fighting. And then the car driver stabs the kidnapper and then the car driver left the car along with the child",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was there anything else in the car that seemed suspicious?",
+    "Interrogee": "There was the toy that was the kid was carrying it was the same as in the newspaper article. photograph.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the driver did not match the face with that. With that of Kid's face he just matched the toy",
+    "Interrogee": "So the photo was not clear enough to match the face. That's why only matched the boy",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ],
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How was the man was kill.",
+    "Interrogee": "The passenger was killed with a stabbing. As the driver and the kidnapper was both fighting outside the car. The driver stabbed the man in the neck, kidnapper in the neck and then the kidnapper died.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the kid react to the scene",
+    "Interrogee": "So during this the kid has no idea about what's happening outside the car. And as he was in the car and the car was completely sealed off. So there was no such reaction.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So when the driver entered the car again didn' the kid had react when the driver entered the car after killing the passanger how did the Kid react?",
+    "Interrogee": "So kid was busy playing with his toy and he didn't notice that anyone has entered the car or the man who was with him is missing and they both left. The driver and the kid",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  }
+]

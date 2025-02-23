@@ -1,0 +1,102 @@
+[
+  {
+    "Interrogator": "Describe the person who came for the enquiry of the missing child.",
+    "Interrogee": "He was a white man and meiddle aged with brunette hair and he was a police officer named Detective Hoffman.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "When Hoffman reached Robert's place what did he do?",
+    "Interrogee": "He knocked at Robert's door and Mr.Robert opened the door and Robert was an old man with white hair and he was very old that he was almost shaking and he tell them, the search has been going on in the neighbourhood and I am here to enquire about that and Mr.Robert said that I haven't hear of such kidnapping and then Mr.Hoffman said that I will be checking your house.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Hoffman said about the missing child.",
+    "Interrogee": "I don't quite remember, the only thing he said is that the child is missing and the search has been going on and he didn't the child who was missing.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Robert reply",
+    "Interrogee": "Robert said that they're in the house. And he haven't heard any such kidnapping. He said that the police officers who to go but the police officer barges in the house goes on to essentially without that makes it Mr. Robot and",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So was the policeman suspecious on Mr. Hoffman.",
+    "Interrogee": "He was not suspecious, he was just doing his duty.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "When Robert refused to know about the missing child, what did the detective say?",
+    "Interrogee": "Detectives say that you must not be listening to any radio news channel. The search has been going on for some time. And I will be checking the house.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Hoffman do when he entered the house?",
+    "Interrogee": "Hoffman closed the door and stood by the door. Robert was watching Hoffman searching the house. While they were talking, Hoffman said that there is no girl the house. But the police officer said that he never mentioned there was a girl. He always said that a child has been missing. So how do you know that it was a girl then Hoffman jumps and picks out a rifle from behind the door and points it to the police officer , then police officer said that they will not need to do such thing and if you shoot me, you will spend all your life and about that police officer was shown unconscious Mr. Robert was taking him to a room.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was Hoffman connected with Roberts",
+    "Interrogee": "Hoffman was a police officer who was investigating and searching for the child and he was unconscious Robert dragging him to a room",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Hoffman say when Robert pointed gun towards him",
+    "Interrogee": "Hoffman say that you should not do such thing and if you fire at me, you will be spending all your life behind the bar and your family family reputation will be affected and society will not accept them. And they should avoid such thing.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was there any woman in the house or was there any noise of the child?",
+    "Interrogee": "No, no noises were heard.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  }
+]

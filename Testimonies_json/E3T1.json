@@ -1,0 +1,142 @@
+[
+  {
+    "Interrogator": "Describe the woman who enter the apartment and why did she come to the apartment",
+    "Interrogee": "She is a maid working in that apartment and she is wearing saree and was on call with her husband.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did the maid see Upon entering the apartment?",
+    "Interrogee": "She saw that the husband and wife are lying on the bed and in an unconscious state",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who was the maid talking to and what did she say to that person?",
+    "Interrogee": "She was talking to her husband and she said that the wife and husband are lying on the bed in an unconscious state.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "There was any other thing? Was the house completely fine? There was no stuff on the ground and only the husband and the wife were unconscious?",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What response did the maid receive upon informing maid's husband about the current situation",
+    "Interrogee": "She told her husband about the scenario and her husband told her that this is the opportunity to make money so take out all the jewelry and money that they have",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "what was the maid doing in the apartment after encountering the incident?",
+    "Interrogee": "So, her husband told her to do as he was saying, then he told her to do to take all the jewelry and money that she know that was there then after after some time rob all the jewelery and money and after some time she called the police that husband and wife are not conscious.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was she doing?",
+    "Interrogee": "She was just doing cleaning the stuff as usual she was cleaning floor",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Even after the house owners were unconscious?",
+    "Interrogee": "She firstly didn't see as she was in the hall cleaning stuff and she entered in one of the room she saw the bodies.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the maid realize that the person she thought was dead was actually alive?",
+    "Interrogee": "The husband and wife are in unconscious state and lying on the bed so she thought that they both killed each other and then she told her own husband about all these.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "She's told her husband that they were alive?",
+    "Interrogee": "She told that the husband and wife are not conscious",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did she do when she saw one of them become conscious again",
+    "Interrogee": "She got afraid when the wife suddenly become conscious so the maid told her husband that she's alive and that she is now afraid.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "what happened after the supposedly dead woman woke up.",
+    "Interrogee": "When she got conscious the maid got afraid and told her husband that she is alive but before that she collected all the jewelry and money so she got afraid more.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the woman react upon discovering that the woman was not dead.",
+    "Interrogee": "She was shocked and then as she has jewelry and money in her hand. so she told her husband about that she is alive",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened at the end",
+    "Interrogee": "The wife suddenly become conscious and catches the maid and and told the police that she stole jewelery and money and told told that she killed her husband too.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  }
+]

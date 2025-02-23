@@ -1,0 +1,292 @@
+[
+  {
+    "Interrogator": "Described the man to whom the bag was handed over.",
+    "Interrogee": "So the man was middle aged and he has some beard, and he was wearing a green jacket. And he was standing there smoking. And yeah, that's what I remember.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So where was he waiting? Can you describe the place?",
+    "Interrogee": "So it was a random spot near a trash can. And as he was waiting there, he was quite frustrated. And he was waiting for quite some long time as he said that it's been hours waiting. And then he was so frustrated that he started throwing rocks, and he was kicking his car's tire. And then for whom he was waiting here, arrived.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "you when you saw this, was this in the morning? Or like what time of day it was?",
+    "Interrogee": "Date was never mentioned. But the time was it was a late night? Probably midnight? Yeah, that's what I remember.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, what was in that bag?",
+    "Interrogee": "So in that bag, there was some drugs, some money and a gun.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And do you know who handed this over to that man?",
+    "Interrogee": "The person's face was never revealed.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did that man who handed over this that say to this man?",
+    "Interrogee": "I don't remember.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "He did not say anything?.",
+    "Interrogee": "He said something, but I don't remember",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who was the man waiting for and what happened in the end of his wait?",
+    "Interrogee": "So the man was waiting for someone and he used to work for a gang. So he might be waiting for his superior. And at the end of his wait another man was walking to the spot and hands him over a bag and assigns him some tasks.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How do you if it is a task when you don't remember it?",
+    "Interrogee": "After having conversation with the man, the man goes to his friend's house. Then he goes and talk to his friend and his wife about some stuff that they stole from his boss and he say if you return it, you will be spared. And the man refuses to admit such thing. And then the man kills his friend and his wife.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did the man and his friend do when they met?",
+    "Interrogee": "They were standing in the kitchen, they were having some drinks, they were smoking. And the man was completely drunk. He was weeping. He was talking about how miserable his life feels that he has no money and his mother is going through an operation and he won't be able to help with that then his friend that I work for some gang and They have jobs like picking stuff from one spot and delivering it somewhere and it makes a lot of money and you should try this to get money.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you mentioned that the man's mother was going through something, can you describe?",
+    "Interrogee": "It wasn't never mentioned, the only thing that was shown was that man's mother was admitted to hospital and soon she will be having some kind of operation",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "That long haired man was also drinking?",
+    "Interrogee": "Yes, he was. He was completely drunk. He was a weeping after that.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What adversary was the man in the white shirt going through.",
+    "Interrogee": "So he was financially broke. And he was living with his mother who was going through some operation and he was unable to pay the bills of the hospital.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "what was the suggestion given to the ma by the man in the blue shirt..",
+    "Interrogee": "The man in the white shirt is a friend of tthe man in the blue shirt and told him that you should work same as me, I work for a gang and they assigneus a task of picking stuff from somewhere and delivering it somewhere and it makes a lot of money. And you should try this.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What work did he say that he was doing? And how did the man in white shirt react after the man in the blue shirt suggested the plan.",
+    "Interrogee": "So he said that he smuggled something and he works for a gang, and he picks up stuff from one spot and delivers it to another spot. And the man in the white shirt was first quite amazed as he was drunk, but later when in the morning, he came to his senses, he told his friend that whatever you are doing is illegal. And it will not end up in well, you should avoid it.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what stuff were they delivering",
+    "Interrogee": "It was never mentioned. But as the bag handed over to the man earlier contain drugs, money and guns so I presume that they were probably smuggling drugs.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, but he did not say what he was carrying.",
+    "Interrogee": "No it was never mentioned what they were smuggling",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how did the white shirt man react to his friends plan.",
+    "Interrogee": "So, first,he accepted it because he was drunk, first he said that it was a great idea and he will completely deny this. But later when he becomes sober in the morning, he said that whatever you are doing is wrong. And you should avoid such thing. But at the end, he end up joining the same gang.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How do you know it is the same gang?",
+    "Interrogee": "Because the man who handed over him the task said that the man stole something from his boss and your task is to get it back?",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the man in blue shirt react when the other man told him that his work was illegal",
+    "Interrogee": "So man in the blue shirt said that nothing in this world now can be achieved legally. And if you want to earn more, you have to go through illegal paths. And then he also became frightened as his wife didn't know about this. And the man in the white shirt was threatening that he will tell his wife about his work. So he was frightened at the ned",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You said that the man had attempted to kill his own friend, what was the reason for that?",
+    "Interrogee": "So he was given the task to retrieve something that his friends stole from his boss. And every other night when he goes to have a conversation with him and his wife regarding the things that he stole, but his friend refuses that he didn't do any such thing. Then the conversation really heated and at the heat of the moment, he killed both his friend and his friend's wife",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So before killing them what was the man doing",
+    "Interrogee": "It was raining that day, and man was waiting outside their house for quite some long time. And he was having cigarette it, then he goes in after making up his mind and have a conversation with them.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened when he went inside the house?",
+    "Interrogee": "So when he went inside the house, the couple was sitting in on a couch watching television, and then he sit in the sofa infront of them, and he started the conversation that you have some stuff of my boss, and you better hand it over, and the consequences will not be well, and then his friend refuses that I didn't do any such thing. And I don't have any such stuff and the conversations get the heated up and at the heat of the moment he shot have both his friend and his wife.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How many people did he murder and what happened after he did that?",
+    "Interrogee": "So he murder a total of for two people, first his friend and his friend's wife and then he just left the house.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did you see him murdering them?",
+    "Interrogee": "Yes, there was a room in which the television was and on the couch he killed both of them.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "After killing where did he go?",
+    "Interrogee": "He just got out of the house and after that it was not shown where did he go",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, and the dead bodies were left there only on the couch.",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What were the people wearing when they were shot dead?",
+    "Interrogee": "I don't remember",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "But you said that you saw them getting murdered?",
+    "Interrogee": "But I don't remember what they were doing.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  }
+]

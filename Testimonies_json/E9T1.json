@@ -1,0 +1,202 @@
+[
+  {
+    "Interrogator": "Describe the person who came for the enquiry of the missing child.",
+    "Interrogee": "Basically he was wearing an over shirt, a T shirt and an over shirt and he came on the bike.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Do you know his name?",
+    "Interrogee": "His name was a Hoffman.",
+    "Annotations": [
+      [
+        "Character_Description",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So when Hoffman reached Roberts place, what did he do?",
+    "Interrogee": "He rang the doorbell. And Robert came from inside and said, who are you? Like why are you here? And that Hoffman said that he is here for to search for a missing boy.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Hoffman's say about the missing child?",
+    "Interrogee": "He said that the last location of the child was in this area. So he's here to search.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Do you know about the description of the missing child? As was said by Mr. Hoffman?",
+    "Interrogee": "No, I don't know. He didn't describe the appearance and of the child. He just said that the child is missing.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Roberts reply when Hoffman said that the child might be in this area?",
+    "Interrogee": "Robert said that he didn't hear any news about the missing child and he's alone in the home. So there was no one else in the home.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay. What Hoffman replied when the Robert said that he did not hear about this news.",
+    "Interrogee": "He said that. Yeah, it is not published on the newspaper till now. So you might not hear the news.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did Hoffman enter Roberts house.",
+    "Interrogee": "Yeah, he entered the Robert house. And started searching for the boy.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what did Hoffman do when he entered the house?",
+    "Interrogee": "When he entered the house, he started searching for the boy",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You said that that he started searching for the boy. How do you know he was a boy?",
+    "Interrogee": "Yes, he told that child was missing. But after some time, when Robert asked him that either it is girl or boy then said that a boy is missing",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "was Hoffman suspicious of Robert.",
+    "Interrogee": "Yeah, he got suspicious. Because his behavior was weird. That's when he got suspecious",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How was he behaving? How was Robert behaving with Hoffman?",
+    "Interrogee": "He firstly denied he was he firstly denied that There is no one in the house. He is alone. And his voice is also lagging. that's why Hoffman was suspecious.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what happened in the house?",
+    "Interrogee": "When Robert, Hoffman entered the house. He started searching for the boy. And then after some time, Robert said that there is no one and why are you wasting your time by searching the boy? And after and then a noise came from upper upper floor of the building, and then Robert said that who is there you said that you are alone in the house then Robert said that it's his cat so he may be maybe making noise?",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So Was Mr. Hoffman convinced when Robert said that it might be the cat whose making the noise?",
+    "Interrogee": "No, he didn't convinced get get convinced, because the noise was different and he he is a member of the CBI and he knows that the the boy, the boy must be there so he got suspicious.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what happened in the house and then",
+    "Interrogee": "basically, when a when Hoffman started going upstaird, and then Robert, firstly, told and said don't go there and but Hawkman didn't listen to him, and then a Robert, pick out the knife and then grabbed him from back side and said that I will kill you otherwise leave the house now?.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So Was anyone injured?",
+    "Interrogee": "I don't know.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You're have not seen anyone getting injured.",
+    "Interrogee": "Yeah, I don't know about that.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "was anyone having any kind of weapon with them?",
+    "Interrogee": "Yeah, Robert has knife.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Only Robert has knife?",
+    "Interrogee": "and Hoffman has gun as he is a CBI officer.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so was these weapons used against each other?",
+    "Interrogee": "No when Robert grabbed him from backside, he also snatches his gun, and then he's helpless.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  }
+]

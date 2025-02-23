@@ -1,0 +1,356 @@
+[
+  {
+    "Interrogator": "How many times the car stopped.",
+    "Interrogee": "First when he went to the mall and then he stopped and in the middle of that, in the outskirts of the town, or the jungle kind of kind of place. And then and then another time he stopped, was like, like one more time he stopped, I remember thrice.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So was he going all alone or was there someone else with him?",
+    "Interrogee": "The owner of the car was driving alone.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where did he go initially",
+    "Interrogee": "He went to the mall in a shop.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what news was announced from the radio.",
+    "Interrogee": "I did not hear any news.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did the car owner buy while he was on the way",
+    "Interrogee": "He went to the mall and bought some clothes.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And whom did the encounter while driving",
+    "Interrogee": "There was this man who was riding a bike. He was a complete stranger to this to the owner of the car. And like, he met that person when his bike was damaged. He was a stranger.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was he carrying a baby?",
+    "Interrogee": "Yes, He was also carrying a kid",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "On the bike?",
+    "Interrogee": "Yes. You know, he was holding like, he was sitting in front and the the kid was in the front of that man.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Is there any Luggage with him.",
+    "Interrogee": "No",
+    "Annotations": [
+      [
+        "Facts",
+        2
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Just carrying a baby?",
+    "Interrogee": "He was carrying that kid only.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Is he male or female?",
+    "Interrogee": "He was a man.",
+    "Annotations": [
+      [
+        "Character_Description",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "The child was a girl or a boy?",
+    "Interrogee": "I don't know.",
+    "Annotations": [
+      [
+        "Character_Description",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So child was crying continuously?",
+    "Interrogee": "No",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why did the car driver extend an offer to give a ride to the stranger?",
+    "Interrogee": "The car driver did not extend an offer to help him. In fact, the stranger asked for lift and the owner of the car was reluctant to offer him the lift.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you are saying that he first denied and after some time he agreed",
+    "Interrogee": "After some time he agreed",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So why he first denied",
+    "Interrogee": "I do not know why he denied",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why did the passenger in the car requested driver to alter route.",
+    "Interrogee": "The passenger said that that route does not lead to any any correct way because it is, like blocked or something like that. so please alter the route.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So is driver or car owner agreed or not.",
+    "Interrogee": "Yes, the car owner did not go through that path.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What occurred when the car came to a halt in the middle of the farm?",
+    "Interrogee": "Okay, so that when the car stopped the man The kid started crying and the man was trying to stop that kid from crying seeing this the owner of the car realized that he had kidnapped the child. So in, so they started fighting.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you did said that kid was not crying at all?",
+    "Interrogee": "Yeah, later that kid started crying.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "After taking the lift The kid has started for some time.",
+    "Interrogee": "Yes, after sometime",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why he started crying?",
+    "Interrogee": "I don't know. There was no reason. I mean, maybe probably because the man had kidnapped him.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so how old the kid was.",
+    "Interrogee": "The kid was around five or six.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What crime had happened?",
+    "Interrogee": "So the man who took the lift had kidnapped this child. And he was taking him away to somewhere.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how driver find out that he was a kidnapper?",
+    "Interrogee": "The photo of the child was published in the newspaper and the driver saw that the report with picture of the kid who the passenger was carrying. So that happened.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "okay, so the kidnapper knows that the car owner knows about the kidnapping.",
+    "Interrogee": "Later he realized that he understood",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How he realized that now he knows",
+    "Interrogee": "The passenger with the behavior of the driver realized that the driver knows.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what type of behavior he was showcasing",
+    "Interrogee": "So he, he went outside to call for 100 helpline number. And that's why",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the kidnapper looked at that he was trying to call 100 ?",
+    "Interrogee": "Yes, then he understood that .",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened to them",
+    "Interrogee": "After that the man who took the lift attempted to strangle the owner of the car and but the owner of the car had a polythene in his bag, and using that polyethylene he strangled the he covered the man who took the lifts face and and he was left with no oxygen and therefore he died I suppose.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So kidnapper at last, kidnapper died.",
+    "Interrogee": "yes",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And what about car owner",
+    "Interrogee": "don't know what happened",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "and the kid?",
+    "Interrogee": "I don't know what happened after that. That's that's what I saw.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So is there any price if anyone find the kid and then kid's parent will give them the money is anything?",
+    "Interrogee": "Yes, I saw, like the owner of the car reading about some like a prize that will be offered to people who to the person who will find that",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "so how much money",
+    "Interrogee": "I don't kow",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  }
+]

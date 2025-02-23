@@ -1,0 +1,140 @@
+[
+  {
+    "Interrogator": "What was the urgency that lead to Shanky asking for a lift?",
+    "Interrogee": "He has to do some work in his house. He said that he has some meeting. So he needs to go urgently.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So if it was so urgent why did they stop and start drinking at his house.",
+    "Interrogee": "That was not mentioned he said that I have 15 minutes of spare time. And because I'm very thankful for to you for helping me out and to show my gratitude, I want to offer you something",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So why did the man in blue shirt require a lift",
+    "Interrogee": "His car had broken down and he had to attend a meeting and online meeting. So he knew he wanted help to reach his house.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So who did the man in blue shirt get lift from and what was their initial reaction when he was asked for it?",
+    "Interrogee": "So the blue shirt was approached a man named Kona and he was driving a bike and on asking him the lift, kunal readily agrees.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What were the profession of both the men?",
+    "Interrogee": "So Shanky, he used to work in a shop and the man who owned the bike works as an event manager",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where did they make a stop while they were going home?",
+    "Interrogee": "They did not stop anywhere and they just went straight to Shanley's house",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "what reason did the man in the blue shirt give for not having a wife",
+    "Interrogee": "So Shanky said that his wife had an affair with someone else and therefore she left him for that",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So describe what type kind of house Shanky had and what did they do when they reached Shanky's house?",
+    "Interrogee": "So Shanky used to live in an apartment and when both of them went to Shanky's house. They started smoking and drinking.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did Kunal immediately agrees to enter in a stranger's apartment ,he didn't hesitate at all?",
+    "Interrogee": "He did not hesitate on going to Shanky's house at all.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So to whose house did they go and why?",
+    "Interrogee": "Both of them went to Shanky's house as Shanky invited Kunal for some drinks and need to have fun as Kunal helped Shanky and he's very grateful to him",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So why did the man who offered lift threaten the other guy and In what way he threatened?",
+    "Interrogee": "So while they were drinking Kunal started acting weirdly. He said Do you know the guy who has done 5 murders? So you know, Delhi is not a safe city and Nobody has seen me coming to your apartment. And if I tried to kill you nobody will know and then he starts attacking Shanky.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so, earlier you said that Shanky played a prank on Kunal and in that prank Kunal died?",
+    "Interrogee": "No nothing like that happend",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the men who offered lift die?",
+    "Interrogee": "So, what happened was Kunal started acting wierd and tried to choke Shanky and in response to that Shanky push him away, and then choked him to death. So Shanky was in pin and he did it in response to the attack that he faced",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  }
+]

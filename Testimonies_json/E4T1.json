@@ -1,0 +1,286 @@
+[
+  {
+    "Interrogator": "Describe the man who took the ride.",
+    "Interrogee": "The man was getting ready for for the wedding party. So he was wearing a white shirt. Black pants and blazer black colored blazer and white colors shoe and a watch.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Can you describe his watch?",
+    "Interrogee": "He was wearing a Samsung watch. It was digital.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so was the man in hurry?",
+    "Interrogee": "Yeah, he was in hurry as, he had to catch his flight and also attend a wedding in between. So, he was in hurry",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where was he going, to Where was his flight?",
+    "Interrogee": "He was going to Mumbai, he was in Delhi and he was going to Mumbai as he has some work there.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so and he lives in this city.",
+    "Interrogee": "Yes, yeah, he lives in the city.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And he was going to whose party?",
+    "Interrogee": "His friend's wedding party",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And whom did he call before going to the party",
+    "Interrogee": "He called the customer care from which he booked the taxi",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, what was the answer he received in the call",
+    "Interrogee": "The customer care told that that cab is in its way and that it will reach soon",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did you hear anything else?",
+    "Interrogee": "No.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, was the cab late?",
+    "Interrogee": "Yeah, it was late by 20 to 30 minutes",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How Do you know that?",
+    "Interrogee": "Yeah, he mentioned, over the phone that it has been 20 minute and that the cab isn't here. So in how much time the car, the cab will be here.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "But you said that he did not say anything in the call?",
+    "Interrogee": "Yeah, he told that the cab hasn't reached till now. So when the cab will reach then customer care told that it will reach soon.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe the cab driver.",
+    "Interrogee": "The cab the cab driver was a young guy. He was wearing a shirt and a pant and also wearing a cap",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did you notice anything about that taxi driver that is somehow wierd.",
+    "Interrogee": "Yeah, he was talking weird things like this city is dangerous anything can happen in the city like that. And he also asked extra money to the to that guy as he know that he was in hurry.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what was the behavior of the taxi driver towards the passenger?",
+    "Interrogee": "Firstly, he was angry. I don't know why. But after some time, his behaviour was good with the customer.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "When the man entered the taxi did he observe anything.",
+    "Interrogee": "No, he didn't observe anything",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did he ask the taxi driver about anything? Any questions or any conversation,",
+    "Interrogee": "No, but then when he got into the cab, the driver asked for extra charge. Then he said, 'Why are you asking for extra charge?' Then he said, 'It's too, too late. I have to reach my home.' 'But you booked the cab, and I have to come here, so I want extra charge,' said the driver. So the guy agreed with the driver.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did he ask why he was late?",
+    "Interrogee": "Yeah, he said that there was traffic and he didn't want to go there; he wants to go to his home",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe the conversation they were having.",
+    "Interrogee": "They were having normal conversation that the cab driver told that the this city is in danger anything can happen and like he was telling his family about his family like he has two child, a wife and a mother. And all we're waiting for him but he didn't reach home.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "When the man asked the taxi driver about his family ,what did he tell him",
+    "Interrogee": "He has two children, Salman and Salma, a wife, and a mother, all waiting for him. But he had to pick you up; that's why.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, what did the man comment about the taxi drivers watch and what did the taxi driver say",
+    "Interrogee": "The man commented that your watch is not working? So the driver replied that the battery had died and he would replace it soon.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why his watch was not working?",
+    "Interrogee": "Since the battery was dead",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "what happened when they reached there",
+    "Interrogee": "When they reached their destination, the guy gave the driver 2000 rupees for the ride. Additionally, he also gave him the watch because he thought that the driver might be poor and unable to afford a new watch. So, he gave him his own watch.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How much money did the cab driver get?",
+    "Interrogee": "When they arrived, the man gave the driver 2000 rupees in cash. He also tried to give the driver the watch, but the driver refused to accept it. He explained that he would not accept the watch because he had already charged extra money for the ride.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How was the behavior of the taxi once they got the money?",
+    "Interrogee": "He was happy, like he got extra money and a tip. And he was happy. And the guy also offered him the watch, but he refused",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "At last from whom did the man received the call.",
+    "Interrogee": "At last, he received a call from the same customer care for the cab. They informed him that the driver of the cab sent for him had been in an accident and had died there. They assured him that they would send another cab.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And Who was this man who dropped this guy?",
+    "Interrogee": "I think it was the same guy.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "But you said that he just died.",
+    "Interrogee": "I don't know that he died or not.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  }
+]

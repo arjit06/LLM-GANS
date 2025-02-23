@@ -1,0 +1,226 @@
+[
+  {
+    "Interrogator": "So, what was the condition of the man who entered the cab?",
+    "Interrogee": "He was worn out. He was tired and very tensed, seeming like crying. He had alcohol in his hand and was very irritated.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did anything happen to him? He was clearly not in good condition.",
+    "Interrogee": "Yes, later he told the taxi driver about his plight.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And so, where did he come from?",
+    "Interrogee": "He was coming from a birthday party.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Also, did he describe the birthday party or even where he came from?",
+    "Interrogee": "Like, yeah, he mentioned that he was coming from a birthday.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And how did the driver reciprocate on asking for the ride?",
+    "Interrogee": "So the driver was saying, \"Okay, please sit down.\" So it was midnight.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So it was midnight.?",
+    "Interrogee": "Yeah.",
+    "Annotations": [
+      [
+        "Facts",
+        2
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Firstly, denied or not met, like he will not take him.",
+    "Interrogee": "So even though it was midnight, it was, I suppose, eight or nine o'clock when this happened. And it was like the driver did not deny to take him for a ride.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, he happily agreed?",
+    "Interrogee": "Yeah, he happily agreed.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And didn't he suspect about his condition that he is not in good condition?",
+    "Interrogee": "I think the driver saw the condition of that man and agreed on giving a ride, and later he asked the man what happened, and when the man said that \"you won't understand,\" so the driver told him that sometimes it is better to tell strangers about one's own difficulties.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what was the passenger going through or why was the passenger there?",
+    "Interrogee": "So the passenger's wife cheated on him with her co-worker, and he came to know about it at the birthday party?",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did he tell his wife about all these events?",
+    "Interrogee": "I do not know.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And after hearing the passenger's story, how did the driver respond?",
+    "Interrogee": "The driver expressed empathy towards this man and started saying that his wife also cheated on him and started telling him his story.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So basically, they both have the same story,",
+    "Interrogee": "yes, somewhat.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the driver's story about?",
+    "Interrogee": "So the driver's story was that he comes from a village area where one fine day, he decided that he would be a taxi driver, and since then, he was a taxi driver. Then he met a woman, fell in love, and got married. Later, he wanted children, particularly a baby girl, but his wife did not want to have children. Despite everyone's attempts to convince the taxi driver to remarry, he remained in love with his wife and didn't pursue another marriage. Eventually, the taxi driver discovered that his wife cheated on him with his brother, leaving him heartbroken.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So who was in the back of the car?",
+    "Interrogee": "There was nobody in the back of the car.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Is there any suspicious behavior in the driver?",
+    "Interrogee": "I mean, there was nothing suspicious about the driver. He was happy.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where was the taxi parked in the end, and what was the intention of the Driver?",
+    "Interrogee": "The driver had no intention; the passenger instructed him to go for a ride through different parts. And later, they arrived at the tracks of the railway, and this was the idea of the passenger. So he was the one who instructed the driver to drive through some routes. And it was dark, so the driver was not really aware of it. Also, he was very empathetic towards the passenger, so he just followed instructions.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So where did they reach?",
+    "Interrogee": "They reached the tracks of the trains.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And why did the passenger want to go there?",
+    "Interrogee": "Because he wanted to commit suicide.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did he commit suicide or not?",
+    "Interrogee": "I don't know what happened after that.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, and initially what did the passenger say about where he wanted to go as a destination?",
+    "Interrogee": "He told him that he wanted to go to Marine Drive and then changed this location to some other place.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the driver didn't ask why he wanted to change the destination?",
+    "Interrogee": "No, he just simply followed the instruction because the passenger was already in a bad state.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  }
+]

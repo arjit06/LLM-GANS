@@ -1,0 +1,220 @@
+[
+  {
+    "Interrogator": "What was the time of the day and how was the weather like when this incident took place?",
+    "Interrogee": "It was midnight, and they were coming from the airport and heading towards his home. And it was a winter night.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, can you describe that place where this incident took place?",
+    "Interrogee": "I think it's a dense forest, and as there were many trees, and it was outside the town. So it was a dense forest.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "While they were driving, what happened that made the car stop?",
+    "Interrogee": "Basically, while they were driving, there's a man in the middle of the road. So they stop the car and then press the horn two to three times.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay. Can you describe that man?",
+    "Interrogee": "The man was wearing a t-shirt, and it was a midwinter night. And that's why the couple got suspicious why he is wearing just a t-shirt? So that man told his wife that he must give up his jacket because he is in that they were in the car, and the man was outside.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Do you know how old that man could be?",
+    "Interrogee": "I think 30 to 35 years?",
+    "Annotations": [
+      [
+        "Character_Description",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you are saying that he was young?",
+    "Interrogee": "Yeah, he was young.",
+    "Annotations": [
+      [
+        "Character_Description",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so who among the two people present in the car seem more helpful? According to you?",
+    "Interrogee": "Yeah, that man, the woman's husband.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so what help did he offer that you felt that he was being generous?",
+    "Interrogee": "When he saw the man and that he's he's just wearing a t-shirt. So he thought he thought that he must give his jacket because they were in the car and the man outside it was winter night. So it was the man who was kind.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did people in the car assume on seeing that person?",
+    "Interrogee": "Firstly, they thought that it is a dense forest and there is no one and only that man was there. So he thought it's a trap? It may be a trap, but he thought that how can one man fight with them.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who thought that? They could be in a trap?",
+    "Interrogee": "Yeah, his wife.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay. What action was taken by the people in the car.",
+    "Interrogee": "Firstly, they waited for some time and they thought that might be he didn't hear anything like horn and their calls so he waited for some time and then he also turned on the light two to three times, turned on and turn off so that he maybe he is deaf and dumb, didn't hear anything, the horn and then then he calls the police after some time.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who called the police?",
+    "Interrogee": "The man because his wife insisted to call that you must call the police because it must be a trap or maybe",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did anyone step out of the car to check who it was?",
+    "Interrogee": "Firstly, police had warned that you must not go outside the car because it must be a trap. So, but after some time he saw the man in the t-shirt and it was winter night so he can't be in control of his emotions and go outside of the car to offer the jacket.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did the people in the car call anyone?",
+    "Interrogee": "Yeah, they call the police over the phone. And then police said that they're coming.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay. Did you see the police coming?",
+    "Interrogee": "When they left, I think when the men, man, the another man came from where I don't know, when they both attack that men. Anyhow, he escaped the man escaped and came to the car and just leave that place. And after some time, I heard the police siren. Okay.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the man in the car was attacked by someone?",
+    "Interrogee": "Yeah, that man who was standing in the middle of the road. And one more man came with a knife and attacked that man. But anyhow, the man escaped and came to the car.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, and then when he was driving, did he? Did they attack the people?",
+    "Interrogee": "No. He just thought that it's time to just leave the place. And then that's why he didn't fight back. Just he escaped from that place, and then came to the car and then left the place.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened to the man who was in the middle of the road?",
+    "Interrogee": "He didn't have anything that they were fighting. But anyhow, the man came, but the man escaped from there from that fight, and then came to the car.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the woman react on seeing her husband getting attacked?",
+    "Interrogee": "She, already thought that it was a trap, But she thought that maybe not. And then they when they the man go outside the car and then talk to him or to offer the jacket and said that what happened like why are you standing in the middle of the road, and another man came and then he started fighting and attacked that man. So she got furious about that.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Like, did she go out and try to",
+    "Interrogee": "she tried to go outside the car but the car was locked because the man locked the car and go outside",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened in the end?",
+    "Interrogee": "Anyhow, the man escaped from that and then came to the car and then left the place. That's it.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  }
+]

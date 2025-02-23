@@ -1,0 +1,152 @@
+[
+  {
+    "Interrogator": "So what was the time of the day? And how was the weather like when this incident took place?",
+    "Interrogee": "So the weather was sunny, it was a hilly region and grassy area. It was delightful weather, and it was daytime when this happened.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So this incident took place in daytime.",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And they were coming from a party.",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So same day the party was, or was it the next day?",
+    "Interrogee": "It was not mentioned.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What made the people in the car halt it suddenly?",
+    "Interrogee": "There was an old man standing in the middle of the road, and he was holding a dog in his hands. They tried to honk at him and they tried to move him away from the middle of the road, but he didn't budge and he stood there.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, what did the people in the car assume when they saw that person?",
+    "Interrogee": "They made no such assumptions and didn't touch anything. There were no such assumptions; they didn't assume anything.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay. So they are a couple that were returning from the party. Was there any conversation between the couple about that person in the middle of the road?",
+    "Interrogee": "Can you repeat?",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "The couple, like they were coming from the party, so any argument or discussion between them either to help them or not that person?",
+    "Interrogee": "No, the man was really eager to help that person and the woman agreed to help, so they were both trying to help that person. They called the police for help.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did the police come?",
+    "Interrogee": "The police came but quite late at the very end.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So when the police came, were they at that spot or had they left that spot?",
+    "Interrogee": "They left that spot; they were running away at that time.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did the police find that person who was in the middle of the road?",
+    "Interrogee": "Yes, they found that person. He was on his last breath, leaning on the side of the road, and the couple had just run their car over that person.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, and what action was taken by the woman in the car?",
+    "Interrogee": "She tried to move that person away from the car and from the middle of the road.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where had the person gone? You said the person disappeared.",
+    "Interrogee": "It was not shown; he just moved away from the middle of the road, and then he suddenly came in front of the road and started hitting the hood of the car.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So when he disappeared, did the couple fear or not, like where did he suddenly go?",
+    "Interrogee": "No, though they were discussing where he went and where he suddenly disappeared, and then he suddenly appeared in front of their car and started beating their hood.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, and then what happened in the end?",
+    "Interrogee": "So in the end, the couple ran their car over the man, and they came back to check if the man was alive. Then they found that the man was alive, and they put the man by the side of the road. And there he was on his last breath, and the couple ran away. Then the police came, and they checked the man, and then they started following the couple.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  }
+]

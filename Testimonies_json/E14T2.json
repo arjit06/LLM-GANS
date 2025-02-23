@@ -1,0 +1,256 @@
+[
+  {
+    "Interrogator": "Describe what happened when the doctor was operating in the operating room.",
+    "Interrogee": "So three men enter the OPD with some balloons and a gun in their hands. They were also carrying a metallic box containing syringes and injections, and they were there to kill the patient. They asked all the doctors to leave.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So why did they want to kill the patient?",
+    "Interrogee": "As per said, he was the leader of some rival gang, and they wanted to eliminate their competition. So they were there to poison the patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So they were contract killers, or they wanted to kill him?",
+    "Interrogee": "They were part of some other gangs, part of a rival gang, and they wanted to kill the leader of the other gang.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So they were only three persons?",
+    "Interrogee": "Initially, there were three, then later two more entered the room. There were also nurses and doctors in the room along with the patient.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how did the doctor and nurses react to that event in the OPD?",
+    "Interrogee": "The doctor was quite furious. He started yelling at them, saying they should leave immediately, and he would call security. He stated it was not the manner to behave in an OPD, they were doing their job there, and they should get out.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you said that a doctor already knew them as her child was the hostage?",
+    "Interrogee": "No, the doctor knew the patient. The patient was the one whose men abducted her child, and the men who intruded in the OPD were part of the rival gang.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened when the male doctor tried to get the gangsters out of the OPD?",
+    "Interrogee": "So when the male doctor tried to get them out, one of the black men who came with those goons grabbed the male doctor by the neck and threw him out of the window, and he fell from the first floor.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after the group leader shot the male doctor and both the nurses?",
+    "Interrogee": "So there was another male doctor who was shot by the group leader, and then the female doctor tried to contact security or call the police. As soon as she reached the telephone, she was shot down by the group leader.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So they killed the male doctor and both the nurses?",
+    "Interrogee": "They killed both the male doctor and the nurses.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Only one male doctor was there, right?",
+    "Interrogee": "No, there were two male doctors.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how many doctors and nurses are in the OPD?",
+    "Interrogee": "So there was the main doctor and then there was two male nurses and two female.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So there was one male main doctor?",
+    "Interrogee": "There was one female main doctor who was the head of operations. There were two male doctors and two female doctors.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And the rest are the nurses?",
+    "Interrogee": "No, that's all.",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after the doctors stopped the group leader from shooting the patient?",
+    "Interrogee": "So after she stopped him from shooting the patient, she was slapped by the group leader. Later, she fell to the side, and then the group leader grabbed some syringe from the metallic box they brought. It contained some kind of poison, and he tried to poison the patient. But then the doctor started fighting them, and she knocked out two of the men. She continued to defend the patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And you said that the patient's men are also in the hospital?",
+    "Interrogee": "No, the patient's men were not in the hospital. They came later after all this was over. Only the patient was there, and the doctor was the one who was protecting the patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did the two men who entered the OPD later do to the doctor?",
+    "Interrogee": "The two men who entered the OPD later also tried to intimidate the doctor. They were continuously fighting with her, but the doctor was holding her ground. Then she was choked by one of those men. Later, she stood up and stabbed one of them in the neck and another one in the thigh, knocking out both of them.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after the doctor knocked out the first man?",
+    "Interrogee": "As soon as she was able to fend off the group leader and continue to fight to protect the patient, she first stabbed one of the men in the arm, cutting his whole forearm with a scalpel. Then she stabbed the other one with a scissor in his leg. She warned him that if he removed the scissors, he would die due to bleeding. After that, two more men entered the room.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the reason for the doctor to protect the patient?",
+    "Interrogee": "Her child was abducted by the patient's men; he was also part of a gang. That's why she was protecting the patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did any other doctors or nurses know about this?",
+    "Interrogee": "She was the only doctor there; all the others were nurses, and I don't think anyone knew about that.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And what did the doctor do after she got her child back?",
+    "Interrogee": "After she got her child back, she locked her child in a room. Then she went to the gangsters and tried to warn them not to pull any such kind of stunts in the future. But the patient's men pulled out their guns and pointed them at the doctor. She continued to fight them and killed all three of them.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So was the patient safe or not?",
+    "Interrogee": "No, in the end, the doctor killed the patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why?",
+    "Interrogee": "She was taking revenge for her daughter getting abducted.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And what did the group leader do when the doctor stabbed his man in the leg, and the doctor suggested he take him to the hospital?",
+    "Interrogee": "The group leader called out for a big man. He was quite huge. He entered the room, and then the group leader asked him to pick up the man who was stabbed and get him to the nearest hospital. He was sent to the hospital.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what happened at last?",
+    "Interrogee": "At last, the doctor was able to save her child. She put her in a room, and then she went on to negotiate with the group leader. There she got involved in the fight and killed all two men of that patient and the patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So all these events happen in the hospital.",
+    "Interrogee": "Yes",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  }
+]

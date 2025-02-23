@@ -1,0 +1,156 @@
+[
+  {
+    "Interrogator": "So why did Swati get angry with the man, and what was he talking about?",
+    "Interrogee": "The man was talking about how all the superiors are a pain in the ass, how they take too much work from the juniors, and he was specifically pointing out Swati, saying that she is one of their kind, and Swati takes a lot of work from his juniors.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "From where did Swati get the call, and what was the caller saying?",
+    "Interrogee": "Swati got the call from a girl named Rupal, and Rupal was saying that her brother has been missing for the last two months. He is an employee of your company and worked as a medical representative in the Chandigarh branch. She was looking for him, as he also blocked his old number, and she was asking the company to get his new number.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why did Swati get scared, and what did the woman who called her tell her?",
+    "Interrogee": "Swati got scared because the woman was continuously asking her to give her the number of Vikas. The woman was asking if she knew Vikas and if there is an employee named Vikas in the company. She said it is her brother, and he has been working in your company. Can you give me his number? He's been out of the home for the last two months, not picking up my call, and he has cut all contact numbers. He left the house after my mother died and abandoned our father.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, who killed Vikas?",
+    "Interrogee": "No one killed him; Vikas was alive.",
+    "Annotations": [
+      [
+        "Facts",
+        1.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so did they talk with Vikas at that time?",
+    "Interrogee": "The HR and the HR head talked with Vikas. They asked him what's going on, why is someone named Rupal calling him. Vikas completely denied it and said that his father and mother are well. He just got married two months ago, and he knows no such person named Rupal. Although there was a former classmate of his named Rupal, who was male, he completely neglected that there is no such person in his life named Rupal.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why did Rupal call again the next day? What did she say to Swati?",
+    "Interrogee": "Rupal called again the next day and said that she is quite miserable, her husband and her brother has left their house, and she desperately needs the number of her husband. Her father had a heart attack, and they want to see his only son in his last days. She asked Swati to get her his number.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Swati reply when the woman was asking for the new number of her husband?",
+    "Interrogee": "Swati said that it is not our company's policy to provide numbers like that. It is a private issue, and you should handle it privately. You should find another way to contact.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "But you said that Vikas's sister called Swati?",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "But Rupal is asking for her husband's new number.",
+    "Interrogee": "No, it was wrong. She was only asking about her brother's number.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So Vikas is her brother?",
+    "Interrogee": "Vikas is Rupal's brother.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Swati do after she got the call again?",
+    "Interrogee": "Swati asked the HR head about the problem and described all the problems to the HR head. Then the HR head told Swati to call Vikas. When they called Vikas, they found out that whatever Rupal was telling is false.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So who else knows about this except Swati in the office?",
+    "Interrogee": "Everyone knows about it in the office. Swati has told everyone, and the HR department also knows, and each and every employee knows about this.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, when the head of HR called Vikas again to seek information about his wife, what transpired?",
+    "Interrogee": "They came to know that he recently got married, and there was no one named Rupal in his life. Vikas completely denied knowing anyone named Rupal; he just said that he used to have a classmate named Rupal, but he was male.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What suddenly happened that caused everyone in the office to panic?",
+    "Interrogee": "An employee was called by Rupal, and he was asked the same thing. Rupal said that his father had a heart attack and wanted to see Vikas in his last days, as he is his only son. The employee gave Rupal Vikas's number, and Rupal also sent some money to that employee. To everyone, it seemed like that this man had taken a bribe to provide Rupal with Vikas's number, causing panic.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And what happened at the end?",
+    "Interrogee": "It was disclosed that Rupal was actually employed by the ex-boyfriend of Vikas's wife. The ex-boyfriend of Vikas's wife wanted to kill Vikas for marrying his girlfriend.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  }
+]

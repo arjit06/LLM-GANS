@@ -1,0 +1,142 @@
+[
+  {
+    "Interrogator": "So what was the name of the man in the blue shirt?",
+    "Interrogee": "So the man in the blue shirt was Shanky.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why did Shanky wanted someone to give him a lift?",
+    "Interrogee": "So Shanky was returning from his office. He used to work in IT company and his scooter was not working. He was pushing the scooter around. So he parked the scooter near a bus stand and he started asking for lift.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And who who did Shanky get a lift from?",
+    "Interrogee": "There was a man named Kunal who was a videographer and who stopped to give Shanky lift.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was Kunal's initial reaction when Shanky asked him for a lift.",
+    "Interrogee": "Kunal was friendly towards Shanky and he immediately agreed to give Shanky lift.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so do you know the profession of both the men?",
+    "Interrogee": "Yes. When they were writing both of them exchanged their names and professions, Kunal was a videographer. And whereas Shanky used to work in IT company.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so while they were going to Shanky's house did they stop anywhere?",
+    "Interrogee": "They made a stop at a tea stall to have some tea, and Kunal was the one who paid the bill.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did they talk about their spouses?",
+    "Interrogee": "Yes. When Kunal asked the Shanky that whether he has a wife or he lives alone then Shanky informed Kunal that Shanky was married but his wife had affair with someone else and she left him, and Kunal also told Shanky that he lives with his wife.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so can you describe the place where Shanky livess?",
+    "Interrogee": "So it was apartment in a building? Only the living room area was shown. So and the kitchen and it was clean and that's all I know.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay. So did you see Kunal going to Shanky's house?",
+    "Interrogee": "Yes, When Kunal came to drop shank it is apartment Shanky invited Kunal inside for drinks and on insisting Kunal agreed and entered Shanky's apartment.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so what happened in Shanky's house. How did canal die? Explain?",
+    "Interrogee": "So on entering Shanky's houses, Kunal started playing prank on Shanky stating that you have allowed a stranger to come to your house and no one has seen me entering the house and I am a serial killer and I have already murdered five people and now you will be my sixth and he started fake attacking Shanky and Shanky got really scared but later revealed that it was all a prank. Then while drinking Kunal asked the Shanky to bring something to eat on the side of drinks, and when Shanky bring some snacks Shanky played the similar prank on Kunal by stating that you enter some stranger's apartment and no one has seen you entering the apartment and no one will see you leaving, and he pulled out a knife and started attacking Kunal and he got really scared and then Shanky also revealed that it was all a prank, but later on having a drinks Kunal throat start burning and Kunal start coughing and he realized that Shanky must have mix something into his drinks. And then Shanky collapsed on the floor.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did you see Shanky using any kind of weapon while trying to prank or maybe Shanky trying to kill canal? Yes.",
+    "Interrogee": "When Shanky was pranking Kunal, he pulled out a kitchen knife to threaten Kunal and he placed the knife on Kunal's neck and he was threatening to cut his throat.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after Kunal became unconcious?",
+    "Interrogee": "After Kunal become unconscious Shanky just took a glass of alcohol and some snacks and placed him it near Shanky",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "so did Shanky had the same drink",
+    "Interrogee": "Yes, Sankey has the same drink, but on a different glass",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so you're seeing the glass must have been poisoned.",
+    "Interrogee": "It was never confirmed, but I don't know what was poisoned but only Kunal was in the effect of the substance.",
+    "Annotations": [
+      [
+        "Facts",
+        5
+      ]
+    ]
+  }
+]

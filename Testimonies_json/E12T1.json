@@ -1,0 +1,196 @@
+[
+  {
+    "Interrogator": "Describe the condition of Rafi when he entered the house.",
+    "Interrogee": "When Rafi entered the house, he was in bad condition, and there was a punch mark on his face and backside, and he was bleeding.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, describe the action of Rafi's sister after she saw her bleeding brother.",
+    "Interrogee": "Firstly, when she saw her brother, she got shocked, and then she went to her brother and said, \"How are you in this condition?\" and then her brother explained everything.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did her brother say about how he got injured?",
+    "Interrogee": "That man was in good state and had to attend a party. So he was going to the party, and someone commented on his girlfriend, and he thrashed him.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ],
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, so Rafi thrashed someone, and then how did he get injured?",
+    "Interrogee": "In return, he was also beaten.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, what happened after Sophie came to know that her brother beat someone?",
+    "Interrogee": "She already knew that her brother is always aggressive, and it might happen as he has done this earlier too, and he also got punishment for this one. So she was firstly soft and then became normal like it is happy to beat someone.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So can you describe the nature of Sophie?",
+    "Interrogee": "Sophie was like kind person and so she advised her brother that you should go to the police station and surrender yourself or either you should go to that person and take him to the hospital as he was in unconscious state and lying on the street.",
+    "Annotations": [
+      [
+        "Character_Description",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So, did she do anything after she listened to what had happened story?",
+    "Interrogee": "Yes, she advised to go there, and she also told that \"I'm going.\"",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did they both go to that place? Can you describe that place where this incident happened?",
+    "Interrogee": "It was a down street, and it was midnight, so no one was there. But when they they went there, they saw two to three more persons were there, and they were calling police. But when she told that that no need to call the police and they were taking him to the hospital. And it was just a fight, a normal fight. So no need to tell the police. So those men left the place at that time, and then her sister treated him, but he commented on her and so she got angry and and beat that person again, got into unconsciousness state.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after Sophia and Rufi reached the place where the injured man was?",
+    "Interrogee": "When they reached the place and they saw that a man lying on the corner of the street and two, three more persons were there and they were calling police and tell everything about the incident and then she came and told those persons that no need to worry and no need to tell the police because they were taking him to the hospital and it was just a normal fight.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did those men react to Sophie's statement?",
+    "Interrogee": "He they say that it's okay, but in that but they already called the police, but as they had no interested in that person so they left.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was the injured man part of the like gang who were there?",
+    "Interrogee": "No, no, he was just a normal person. He basically commented on her girlfriend so that's why he got angry",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe what the injured man said when Sophie was attending his wounds.",
+    "Interrogee": "He flirted and passed comments that \"you are beautiful\" like that and then she got angry that \"you are in this state and you're commenting on me\" and then she also beat him and he became unconscious again.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did Sophie observe anything weird about that man who was injured?",
+    "Interrogee": "Yeah. When she she was treating him she was in bad condition like earlier he was in unconscious and became conscious after some time and again, he was flirting with her so she got angry like \"you are in this condition and you are flirting with me\" and I'm treating you like a good person and then that's basically what.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so at the time Sophie was treating this man, where was Sophie's brother, Rufie?",
+    "Interrogee": "He was in the car. He was afraid that those people will catch him, take the injured man to the hospital, take him to the police station. So he was in car.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Sophie and the injured man had any conversation apart from the flirtatious comment that he was passing on her.",
+    "Interrogee": "Yeah, she said that the, you should not do that. Because he knows the nature of her brother. And that person said that your brother is is a bad person. He beat me like this. And then he left me in an unconscious state and left the place. That was a conversation between them.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so how did this person die? Injured man?",
+    "Interrogee": "I don't know about that either he was dead or not.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did Sophie do anything that caused more injuries to this injured man?",
+    "Interrogee": "Yeah, when he flirted with her, she got angry and beat him.",
+    "Annotations": [
+      [
+        "Facts",
+        2
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did she use any weapon?",
+    "Interrogee": "No, just beat him with with hand.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So this man was not killed. According to you?",
+    "Interrogee": "I don't know about that.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  }
+]

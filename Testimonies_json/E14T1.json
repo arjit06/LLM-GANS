@@ -1,0 +1,282 @@
+[
+  {
+    "Interrogator": "Describe what happened when doctors were operating in the OPD.",
+    "Interrogee": "When the doctors were operating on the OPD, some goons came inside the OPD and warned, or said, \"Kill the patient, otherwise I will kill you all.\"",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened when the male doctor tried to get the gangsters out of the OPD?",
+    "Interrogee": "When the male doctor tried to get out of the OPD, the goons killed that male doctor.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so the goons targeted everyone in the OPD.",
+    "Interrogee": "Firstly, they warned that \"Kill the patient, otherwise I will kill you all.\" Then they started fighting and killing the doctors.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So they said that if they don't hand over the patient to them, they will kill all the doctors?",
+    "Interrogee": "No, they said, \"Kill the patient, don't hand him over. Kill the patient, otherwise I will kill you.\"",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What reply did the doctors give?",
+    "Interrogee": "Dr. denied, as it was her patient, saying that it was her duty that doctors save the patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who said this?",
+    "Interrogee": "The main female doctor who is operating the patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So after the statement, what was followed?",
+    "Interrogee": "When the doctor said the statement, the goons started killing the other doctors and nurses.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What weapon was used to kill the people?",
+    "Interrogee": "They were having guns and they started shooting the doctors and nurses.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So okay, so describe the crime scenario, what happened?",
+    "Interrogee": "Firstly, they warned; the goons warned to kill the person, otherwise, they will kill all the doctors and nurses. But the doctor denied, and they started fighting, and the goons were having a gun, so they shot all the male doctors. Nurses, only the female doctor was left, and they didn't have enough bullets to kill that lady. So they pulled out knives and started attacking the female, but the female killed all the goons with a surgical knife she had in hand.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So you're saying that the doctor tried to stop the goons from shooting the patient?",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what happened? What happened after the doctor stopped the group leader from shooting the patient?",
+    "Interrogee": "The group started fighting and killing the doctors with the gun.",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did the men who entered the OPD later do to the doctor?",
+    "Interrogee": "I don't exactly remember.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so was any of the members in the gang attacked?",
+    "Interrogee": "Yes, firstly they attacked, and then, in return, the female main doctor also attacked the goons.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So with what weapon was she attacking?",
+    "Interrogee": "She was having a scalpel, a surgical knife, and a scissor in the other hand, so she started with both.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Were the men hurt by her?",
+    "Interrogee": "Yeah, she killed all three or four goons that were in the OPD.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How were they attacked?",
+    "Interrogee": "Yeah, she attacked with a surgical knife, and she knows, I think, karate, and she attacked with.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Where did she attack like? Where did she point like neck or...?",
+    "Interrogee": "She pointed on the chest and neck.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "That's it? In most or all of them?",
+    "Interrogee": "Yeah, in most of them, she attacked on the neck, and the goons died on the spot.",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the behavior of the people of the gang towards each other? Were they helping in saving the other person?",
+    "Interrogee": "Yeah, since they were the members of the same gang, so they were helping each other and cooperating with each other.",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was anyone killed from the gang?",
+    "Interrogee": "Yeah, all of them. She killed all of the three or four people of the gang who were inside the OPD.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so what happened after she killed all of them?",
+    "Interrogee": "When she killed all of them, she shifted the patient into another OPD, and then she started the procedure of operation, and then she saved the patient. And as she also wanted to save the patient because her child was in the custody of that person. And when she saved the child, when they saved that person, patient, her child would be released. That's why she wanted to save that patient.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so did she meet her child?",
+    "Interrogee": "Yeah, after the operation was successful, she got the child, her child, and then she left the hospital.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was the child a girl or a boy?",
+    "Interrogee": "I think it's a boy.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Then what happened?",
+    "Interrogee": "They both, they left the hospital.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, then you did not witness anything?",
+    "Interrogee": "And the person of that patient came to see him and then carry that patient or leader with them.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was the patient treated at last?",
+    "Interrogee": "Yeah, that's why the operation was successful.",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did you see him walking?",
+    "Interrogee": "No, I don't know.",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You said that are the members of the gang.",
+    "Interrogee": "No, they put him on the bed",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "Interrogator": "Describe the man to whom the bag was handed over",
+    "Interrogee": "He's a long-haired man standing in the field, and it's a dark night.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Any particular features or body clothes?",
+    "Interrogee": "Yeah, he's wearing a shirt, and he's a fat guy.",
+    "Annotations": [
+      [
+        "Character_Description",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who was the man waiting for, and what happened at the end of his wait?",
+    "Interrogee": "He was waiting for the contract killer, a big man. When he came, he gave him the bag and told him to kill a person.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did the two men do when they met?",
+    "Interrogee": "They were just drinking and chilling out. The long-haired man offered the fat guywine, but he denied it.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What problems were the man in the white shirt going through",
+    "Interrogee": "I already told you that. His mother is suffering from heart problem so last time she got heart attack but anyhow she survived but this time he is saving money for future if if she get any heart attacks he has a he must have money to save",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "what was the suggestion given to the man in the white shirt by the man in blue shirt?",
+    "Interrogee": "He gave him the suggestion that you can't make money by legal manner , you have to do some illegal activities to earn money or to save your family.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What work did he say he was doing and how did the man in the white shirt react after the man in the blue shirt suggested the plan.",
+    "Interrogee": "Basically, the long haired man, that blue shirt man told him to do a delivery job that you have to deliver a parcel from one place to another place. But white shirt man told that that why one would give him a lot of money to just deliver the parcel. So he asked about what was in the parcel ,what is in the parcel and then he he told him that it's drug. Initially his friend denied to do it.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the man in the blue shirt react when the other man told him that his work was not legal?",
+    "Interrogee": "Yeah, he told that you can't, you can't you can't earn enough amount of money by just doing legal work. So you must do illegal works to earn money and to save your family .",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describes what you observe in the scene where a man was sitting in the car.",
+    "Interrogee": "Basically, they were drinking. They were in a bar and they were drinking and talking to each other about their problems and they want to make money but how can theu make money and he offer edin the long haired men to earn money by illegal method",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened when he went inside the house?",
+    "Interrogee": "When he when he went inside the house, a girl crying was crying a lot and then sound of firing two bullet and I don't precisely remember what they were doing",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How many people did he murderer and what happened after he did that?",
+    "Interrogee": "Basically there are two fire shot that happened inside the house was and a girl cried, but don't know how many killed.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  }
+]

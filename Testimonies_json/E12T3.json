@@ -1,0 +1,92 @@
+[
+  {
+    "Interrogator": "Okay, describe the condition of Rafi when he entered the house.",
+    "Interrogee": "He was bleeding profusely from his head on his forehead, appeared to have damaged. And when he entered the house, he was not even able to walk. And his sister, gave him shoulders and took him to the bedroom and tried to stitch him up. That was his condition",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, describe the actions of Rafi\u00e2\u20ac\u2122s sister after she saw her bleeding brother.",
+    "Interrogee": "She was very angry, she tried to treat her brother and she was continuously asking him who had hit him, what had happened, where he had gone, etc.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after Sofi came to know that her brother left someone unconscious on the street?",
+    "Interrogee": "She first got all angry, she was very much intrigued as to who had the courage to hit him. She didn't feel bad at all, with the fact that her brother had hit someone who tried to hit on him. So she was happy with the fact that brother had attacked his attacker.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And what happened after Sophie and Rafi reached the place where the injured man was?",
+    "Interrogee": "So Sophie was being very kind to the strange man. She was cleaning his injuries. And the man was calling her very beautiful. And also he was concerned with her scar, which was on her face, and was explaining that his cousin had also gone through the same kind of attack that she had a went through.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe What the injured man said when Sofi was attending to his wounds.",
+    "Interrogee": "The injured man looked at her she was calling her beautiful and he also looked at her scar. And he explained to her that his cousin also encountered similar to what had happened to her and then he chased the people who attacked on his cousin and tore his face apart",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Sofi observe while attending to the injured man\u00e2\u20ac\u2122s wound and what question did, she ask while the injured man was talking to her?",
+    "Interrogee": "Some kind of mark on his forehead, I don;t remember",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Sofi do After She came to know that the injured man was going to hunt down his brother?",
+    "Interrogee": "Sophie was full of anger initially. So she had come with the plan of murdering him. So she took the gun with which she was prepared and she she thought of killing him. But instead of that, she just attacked him using a nearby stone she saw",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe what Rafi said that why he was injured.",
+    "Interrogee": "Rufy said that he was coming from a party and in a street center as he described, he saw some goons running behind him. I don't remember what was The reason and the goons attacked him",
+    "Annotations": [
+      [
+        "Facts",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe the response and action of Rafi when her sister said that she was going to help the man whom he left unconscious on the street.",
+    "Interrogee": "Rafi was not very happy with the fact that she was being kind. But he knew that her purpose was to get revenge. So he agreed with that.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  }
+]

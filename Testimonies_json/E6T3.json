@@ -1,0 +1,142 @@
+[
+  {
+    "Interrogator": "Why Swati got angry with the man and what he was talking about?",
+    "Interrogee": "So this guy was speaking bad about women of this company, that how women are not as good workers as the men. And therefore she got really frustrated and she started shouting at this guy.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "This conversation was when she was talking to her colleagues?",
+    "Interrogee": "All the colleagues were talking and he was constantly making remarks about her.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Did she scold him?",
+    "Interrogee": "She was very frustrated that how, even though the guy was describing the woman of the company does not work at all, he said even she was not working and she was getting money for free, without even working as hard as the men.",
+    "Annotations": [
+      [
+        "Event_Details",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "From whom did Swati get the call and what the caller was saying?",
+    "Interrogee": "She got the call from a woman named Rupal who claimed to be the wife of Vikas Bhatia who is a worker at the company. She was requesting her to give the phone number.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why Swati got terrified and what did the women tell her?",
+    "Interrogee": "Swati was terrified because the woman told her that it's been more than three, four months that the woman got married, and her husband went missing after that, she knows that her husband works in that company. And therefore, after listening to this, that it's been three months that the guy's missing so Rupal was there.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So Swati and Rupal don't have any personal connections?",
+    "Interrogee": "No they don't have any personal connection. Swati works at a call center. And Rupal called her because her husband also works at the same call centre.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So why she called Swati?",
+    "Interrogee": "Swati was in the HR department. So she had all the information so Rupal called the company available number to get the information about there workers.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So why Swati would call Rupal if she didn't know her personally.",
+    "Interrogee": "They don't share any personal connections,but her husband is still missing for three months. So the person she can contact is someone that can reach her husband whowas the was the member of the HR department, because HR department people have the contact of all their worker",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Was there any threats, that if Swati don't give her the numbers Rupal will do something",
+    "Interrogee": "Yes, after sometimes she starts threatening Swati that I will commit suicide and I will do this and that if she does not agree to give share the number.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What Swati replied in the moment when Rupal was asking for the number of her husband.",
+    "Interrogee": "Swati was saying that she can't give the information as it is confidential and it is against the company's policy.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why Rupal called next day again and what did she say to Swati?",
+    "Interrogee": "She called Swati to give her more threats that if she does not agree to give her his number.So she might track down Swati and do something to her and she also said that she will also commit suicide as soon as possible",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did Swati do after she got the call again?",
+    "Interrogee": "Swati was adamant on not giving the number she checked if there exist any Vikas in the company and she agreed that did exist an employee by the name of Vikas Bhatia and he works in Chandigarh as mentionedby the caller, that is his wife. So she afirmed that he is working and he's in a good state and that her wife need not worry about him.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "When the Head of HR called Vikas again to seek confirmation about his wife, what transpired?",
+    "Interrogee": "So what happened was when Swati first called Vikas Bhatia to tell him that he should go back to his wife and first Swati asked if he got married, and that he should have submitted the documents about him being married, he should have updated the documents. So to which, Vikas said that he was busy with work and the marriage because he was not able to update it and that he will update it as soon as possible. After that's Swati told them that why he didn't go to his house for so many days that he should forgive her for all the mistakes and should go back home. And Vikas he was very confused, he said that I just came from home and everything is fine. What are you talking about? So Vikas was not very clear with what Swati was saying then Swati told him tha she got so he got a call from his wife Rupal claiming that he have not visited home for the past few days to which Vikas said that I do not know anyone by the name of Rupal and Pooja is my wife then HR guy called Vikas again to reconfirm the fact that Rupal was indeed not the wife of Vikas to which Vikas strongly agree that no he does not know anyone by the name of Rupal",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What suddenly happened that caused everyone in the office to panic?",
+    "Interrogee": "So Rupal's friend called the other employee of the same office to track Vikas Bhatia's number and this other person gave her the number which which created panic.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  }
+]

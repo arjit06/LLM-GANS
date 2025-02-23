@@ -1,0 +1,356 @@
+[
+  {
+    "Interrogator": "So how the woman entered the house.",
+    "Interrogee": "The woman entered the house through the door, and she knocked the door and the owner of the house opened it and then maid attacked them and tried to kill them by strangling both the people.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ],
+      [
+        "Character_Description",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So she got success with murder to kill those two?",
+    "Interrogee": "yes, she was able to make them unconscious and kill one of them that is the man of the house and she , she, she tried to, strangle both of them. And, like she thought that she was successful in killing both the owner of the house.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did she use any weapon to kill?",
+    "Interrogee": "No, she strangled them. She threatened them with a knife also in the beginning, so that they don't attack her back.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "You had seen a knife with her?",
+    "Interrogee": "Yes, she had a knife with her.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Is there anyone else with her?",
+    "Interrogee": "No, nobody else was with her.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how did she manage to kill out both of them?",
+    "Interrogee": "She got a knife and told the woman that she would kill her husband, and then strangled him to death. And after that, she did the same to the woman, tried to scare her using the knife and then killed her.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And didn't the two, that is owner and his wife fight back with the woman.",
+    "Interrogee": "Yes, like yes, I did saw a bit of fighting but she was able to tackle both of them.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So the fight was inside the house or outside the house",
+    "Interrogee": "Inside the house.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Inside of the house after she entered the house?",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So is she a stranger or usually comes to the house",
+    "Interrogee": "She is the maid of the house as she comes to the house everyday.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe the woman who entered the apartment, Why did she come to the apartment.",
+    "Interrogee": "The woman was the maid of the House and she seemed like a simple woman and she was wearing a kurti and had her hairs braided, I am not sure if it was braided. And she had dupatta kind of cloth.",
+    "Annotations": [
+      [
+        "Character_Description",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What did the maid see upon entering the apartment?",
+    "Interrogee": "Upon entering the apartment she saw and she greeted the owners of the house.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And did she see anything unusual or anything like when she entered",
+    "Interrogee": "Who, the maid?",
+    "Annotations": [
+      [
+        "Fillers",
+        0
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Yeah the maid.",
+    "Interrogee": "The maid did not see anything but after a while she attacked the people.",
+    "Annotations": [
+      [
+        "Event_Details",
+        5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what was the intention behind that attack .",
+    "Interrogee": "She wanted to steal.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Who was the maid talking to and what did she say to that person?",
+    "Interrogee": "She was talking to perhaps her partner in the phone and she told him that I found the owners of the house dead and what should I do next?",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "No, you said that they killed up those two.",
+    "Interrogee": "Yes but she did not really reveal that to her partner",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "okay so why she asked her partner that what she will do, she already thought right, that if she kill both of them she will do something after that. then why she asked to her partner.",
+    "Interrogee": "She might have bad motive of stealing that is why she killed the two people or attempted to kill the people then she asked her partner, what makes should I do after witnessing two people dead she did not mention that she killed anyone",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So she didn't have any idea that what she will do after killing both of them or Is there any motive planning and that she made.",
+    "Interrogee": "I don't I do not know if she had any plan or not I do not know",
+    "Annotations": [
+      [
+        "Facts",
+        2
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What response did the maid receive upon informing the person about the current situation?",
+    "Interrogee": "So the man on the call suggested her to steal from the house and not to panic and that's it.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So did she agree to steal the things?",
+    "Interrogee": "Yes, she happily agreed to steal the things.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So was she nervous.",
+    "Interrogee": "She was not nervous she deliberately killed them though she was not nervous",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What was the maid doing in the apartment after encountering the incident?",
+    "Interrogee": "So the maid started searching the cupboards and look for money and jewelries and also stole the jewelry of the women who was lying unconscious",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So how did the maid realize that the person she thought was dead was actually alive?",
+    "Interrogee": "So the for maid to check if the woman was alive by checking her breath then after some time she realized that woman was standing behind her whom she attempted to kill and then they both started fighting and this maid was shocked on seeing the woman that she tried to kill was alive",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So see attempted again to kill her or not.",
+    "Interrogee": "No, she did not attempt to kill that woman.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Why though Initially she thought that both were dead",
+    "Interrogee": "She was shocked that she that the woman was alive",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "If she wants she also attack next time and then kill her the owner of the house was already dead and his wife was only alive so maybe she attack next time and kill her.",
+    "Interrogee": "yes, she Yeah, she did. Fight. Try to fight her.",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So what happened next once she countered that the woman is alive.",
+    "Interrogee": "So she was shocked and she she tried to fight her. Then as she was shocked then like doorbell rang and there are there there was a police.",
+    "Annotations": [
+      [
+        "Facts",
+        2.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "And how police came did she inform the police.",
+    "Interrogee": "I don't know how the police came. I did not see anything.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "What happened after the supposedly dead woman woke up?",
+    "Interrogee": "So she was shocked and try to fight her and then the police came and the woman started crying please don't kill me. You've already killed my husband. Okay.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So when police came what happened.",
+    "Interrogee": "so the police arrested that maid and the maid was trying to reach her partner but she was unsuccessful.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, anything else happened at the end of the event, like the police came and then they arrested that maid and did maid say anything to the police or that woman.",
+    "Interrogee": "No, she did not say anything to the police.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "She didn't justify herself.",
+    "Interrogee": "She did not She might have thought that she is guilty and that she should be arrested.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Didher partner came to that apartment?",
+    "Interrogee": "No",
+    "Annotations": [
+      [
+        "Facts",
+        3
+      ]
+    ]
+  },
+  {
+    "Interrogator": "He just instructing on the phone?",
+    "Interrogee": "Yes.",
+    "Annotations": [
+      [
+        "Facts",
+        3.5
+      ]
+    ]
+  }
+]

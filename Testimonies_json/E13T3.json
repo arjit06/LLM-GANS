@@ -1,0 +1,120 @@
+[
+  {
+    "Interrogator": "Describe the conversation between the delivery boy and the chef.",
+    "Interrogee": "So the chef was angry because he had been delivering not on time lately, and also the number of the rating of the delivery guy was low, so they were discussing about that.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so describe what the delivery boy observed when he entered the house.",
+    "Interrogee": "So when he entered the house,house-items were misplaced, and then he also heard the scream of the woman the first time he entered the house.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "How did the delivery boy receive the message for help, and what were his action after receiving the message?",
+    "Interrogee": "So what happened was the delivery guy got some tips from the women after delivering the food items. Then he observed that in his receipt, it was written, help me. I am trapped. And that's how he came to a realization that someone might need his help.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ],
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "So describe how the woman in the house treated the delivery boy.",
+    "Interrogee": "She was smiling, and I found it weird, but she was being very polite and gentle towards the delivery guy, and also gave him a lot of tip.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Discuss the body language of the woman while receiving the order.",
+    "Interrogee": "Okay, she was, she was panicking, and she was trembling and she but she was she had a smile on her face, and she was in a hurry for something. And she said there was a party, I don't remember much.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so describe what the delivery boy observed when he entered the inner room.",
+    "Interrogee": "When he entered the inner room after coming back, he observed there was some plastic sheat laid out. And when he removed the plastic sheet, he saw a bathtub inside which a man was dead. Since I could see a lot of blood and he was unconscious, I believed him to be dead.",
+    "Annotations": [
+      [
+        "Facts",
+        4.5
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, describe the action of the woman when she found the delivery boy in the inner room.",
+    "Interrogee": "So she was planning to kill him also, and she had a huge knife in her hand, and she was coming closer to the delivery guy, and she also trying to explain why she had killed the guy who was in the tub.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Okay, so, how did the woman die? And what was the action of the delivery boy after that.",
+    "Interrogee": "The woman stepped on the noodles and slipped and killed herself with the knives that she had in her hand. And the man escaped from that place only to come back and to rate himself a five star from the woman's tablet,",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe the action of the delivery boy after he confirmed that the woman is dead.",
+    "Interrogee": "He escaped from the place, and then he came back and used the woman's tablet to rate himself five stars.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Describe the attitude and performance of the delivery boy regarding his job.",
+    "Interrogee": "So he was not very much interested as what a chef explained he had low stars and but this time, he made sure that he will get five star.",
+    "Annotations": [
+      [
+        "Facts",
+        4
+      ]
+    ]
+  },
+  {
+    "Interrogator": "Summarize what happened at the end,",
+    "Interrogee": "The woman had killed herself and he had given himself a five star using the women's tablet, he just left the place and threw his jacket on the road.",
+    "Annotations": [
+      [
+        "Event_Details",
+        4.5
+      ]
+    ]
+  }
+]
