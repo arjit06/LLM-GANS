@@ -120,7 +120,7 @@ def llm_generate(prompt, role="evaluator"):
 def get_dialogue(testimony_code='E1T1'):
     global remove_labels
     if remove_labels==False:
-        f=open('/home/adityab/LLama/Testimonies_json/'+testimony_code+'.json')
+        f=open('./Testimonies_json/'+testimony_code+'.json')
         dialogue=f.read()
         f.close()
     else: 
@@ -137,7 +137,7 @@ def get_dialogue(testimony_code='E1T1'):
             
             return cleaned_text
 
-        file_path = '/home/adityab/LLama/Testimonies_json/'+testimony_code+'.json'
+        file_path = './Testimonies_json/'+testimony_code+'.json'
         dialogue = remove_annotations(file_path)
     return dialogue
 
@@ -560,15 +560,15 @@ def generate_summaries(events_list=[],attribute_list=['Event Details','Facts','C
                 summary=run_summarization_llm(summarization_llm,attribute, testimony_code)
                 attribute_for_saving_file_name=attribute.replace(' ','_')
                 # put the path where the 0 shot summaries will be saved
-                if not os.path.exists(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}'):
-                    os.makedirs(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}')
-                new_file=open(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}/{testimony_code}_{attribute_for_saving_file_name}.txt','w')
+                if not os.path.exists(f'./Generated_summaries_{sum_prefix}'):
+                    os.makedirs(f'./Generated_summaries_{sum_prefix}')
+                new_file=open(f'./Generated_summaries_{sum_prefix}/{testimony_code}_{attribute_for_saving_file_name}.txt','w')
                 new_file.write(summary.strip('\n'))
                 new_file.close()
                 print(f'Summary Generated for {testimony_code} and attribute {attribute}.')
             except: 
                 continue
-    print('0-shot Summaries saved in file '+ f'/home/adityab/LLama/Generated_summaries_{sum_prefix}')
+    print('0-shot Summaries saved in file '+ f'./Generated_summaries_{sum_prefix}')
 
 #change evaluation model
 def improve_summary_using_planning_engine(summary,testimony_code='E1T1',attribute='Event Details',n=1,summary_path_prefix=None,save=False): 
@@ -579,9 +579,9 @@ def improve_summary_using_planning_engine(summary,testimony_code='E1T1',attribut
     for i in range(n): 
         if save:
             # put the path of the folder where the improved summaries will be saved
-            if not os.path.exists(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp'):
-                os.makedirs(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp')
-            file=open(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp/{summary_path_prefix}_p{i+1}.txt','w')
+            if not os.path.exists(f'./Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp'):
+                os.makedirs(f'./Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp')
+            file=open(f'./Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp/{summary_path_prefix}_p{i+1}.txt','w')
             
         police_officer_verdict=get_police_officer_verdict(summary,'',testimony_code,attribute)
         inspector_verdict=get_inspector_verdict(summary,police_officer_verdict,testimony_code,attribute)
@@ -591,11 +591,11 @@ def improve_summary_using_planning_engine(summary,testimony_code='E1T1',attribut
         
         if save:
             # put the path of the folder where the improved summaries will be saved
-            file=open(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp/{summary_path_prefix}_p{i+1}.txt','w')
+            file=open(f'./Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp/{summary_path_prefix}_p{i+1}.txt','w')
             file.write(summary)
             file.close()
             print(f'Summary improved for {testimony_code} and attribute {attribute} and n={i+1}.')
-    print('Improved Summaries saved in file '+ f'/home/adityab/LLama/Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp')
+    print('Improved Summaries saved in file '+ f'./Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp')
         
 def improve_summaries(testimony_code,attribute_list,max_n): 
     global summarization_llm
@@ -605,7 +605,7 @@ def improve_summaries(testimony_code,attribute_list,max_n):
         try:
             path_prefix=f"{testimony_code}_{attribute.replace(' ','_')}"
             # put the path where 0-shot summaries are saved
-            summary_file=open(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}/{path_prefix}.txt','r')
+            summary_file=open(f'./Generated_summaries_{sum_prefix}/{path_prefix}.txt','r')
             summary=summary_file.read()
             summary_file.close()
             improve_summary_using_planning_engine(summary,testimony_code,attribute,max_n,path_prefix,save=True)
@@ -623,7 +623,7 @@ def evaluate_summaries(events_list,attribute_list,max_n):
     sum_prefix=summarization_llm.replace(' ','_')
     improve_prefix=improvement_llm.replace(' ','_')
     # put the path of the log file 
-    log_file=open(f'/home/adityab/LLama/evaluation_{sum_prefix}_sum_{improve_prefix}_eval_and_imp.txt','w')
+    log_file=open(f'./evaluation_log_{sum_prefix}_sum_{improve_prefix}_eval_and_imp.txt','w')
         
     for n in range(0,max_n+1): 
         for attribute in attribute_list: 
@@ -637,8 +637,8 @@ def evaluate_summaries(events_list,attribute_list,max_n):
                     path_prefix+=n_value_suffix
                     try:
                         # put the path of the folder where the improved summaries are saved
-                        if n!=0: summary_file=open(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp/{path_prefix}.txt','r')
-                        else: summary_file=open(f'/home/adityab/LLama/Generated_summaries_{sum_prefix}/{path_prefix}.txt','r')
+                        if n!=0: summary_file=open(f'./Generated_summaries_{sum_prefix}_sum_{improve_prefix}_eval_and_imp/{path_prefix}.txt','r')
+                        else: summary_file=open(f'./Generated_summaries_{sum_prefix}/{path_prefix}.txt','r')
                         summary=summary_file.read()
                         summary_file.close()
                         score=get_role_evaluation_score_for_summary(summary,testimony_code,attribute)
@@ -664,7 +664,7 @@ def evaluate_summaries(events_list,attribute_list,max_n):
         log_file.write(f'Final Scores for attribute {attribute} and n=0-3 are: {final_scores[attribute]}\n')
         log_file.flush()
     log_file.close()
-    print('Evaluation scores saved in '+ f'/home/adityab/LLama/evaluation_{sum_prefix}_sum_{improve_prefix}_eval_and_imp.txt')
+    print('Evaluation scores saved in '+ f'./evaluation_{sum_prefix}_sum_{improve_prefix}_eval_and_imp.txt')
     return final_scores
                 
 def main(): 
