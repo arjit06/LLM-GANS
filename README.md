@@ -1,4 +1,4 @@
-# CASPER
+# Narrative-Dialogue-Summarizer
 
 ## Preparation of Environment
 
