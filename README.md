@@ -1,4 +1,5 @@
-# Narrative-Dialogue-Summarizer
+# LLM GANS 
+## LLM GAN-based-Summarizer  
 Witness testimonies are crucial in criminal investigations, providing context that physical evidence alone cannot. However, they are often verbose, fragmented, and inconsistent, making it difficult to extract a coherent and reliable account. Systematically distilling these testimonies into structured, fact-based summaries is essential for accurate and unbiased investigations.
 
 This project processes interrogator-interrogatee conversations to generate three controlled summaries: event details (chronological sequence of events), facts (factual statements by the witness), and character description (physical details of the perpetrator). We employ an LLM-based framework for efficient summarization.
