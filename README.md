@@ -1,4 +1,9 @@
 # Narrative-Dialogue-Summarizer
+Witness testimonies are crucial in criminal investigations, providing context that physical evidence alone cannot. However, they are often verbose, fragmented, and inconsistent, making it difficult to extract a coherent and reliable account. Systematically distilling these testimonies into structured, fact-based summaries is essential for accurate and unbiased investigations.
+
+This project processes interrogator-interrogatee conversations to generate three controlled summaries: event details (chronological sequence of events), facts (factual statements by the witness), and character description (physical details of the perpetrator). We employ an LLM-based framework for efficient summarization.
+
+A zero-shot LLM first generates attribute-specific summaries from raw testimonies. Then, a GAN-inspired refinement process iteratively improves them. An evaluator LLM assesses summaries based on custom criteria—checking for hallucinations, relevance, and attribute-specific accuracy—assigning a score. This score, along with evaluation feedback, guides an improver LLM, which refines the summaries. This adversarial setup enhances summary quality without requiring training or fine-tuning, enabling domain-specific, controlled summarization for any dataset.
 
 ## Preparation of Environment
 
