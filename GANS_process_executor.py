@@ -11,16 +11,16 @@ def execute_processes(events_list=list(range(1,16)),attribute_list=['Event Detai
     
     #run summarization
     mode='summarization'  
-    subprocess.run(["python", "CASPER_main.py", f"--events_list={events_list}" ,f"--cuda_id={cuda_id}", f"--mode={mode}", f"--summarization_model={summarization_model}", f"--improvement_model={improvement_model}"]) 
+    subprocess.run(["python", "GANS_main.py", f"--events_list={events_list}" ,f"--cuda_id={cuda_id}", f"--mode={mode}", f"--summarization_model={summarization_model}", f"--improvement_model={improvement_model}"]) 
     
     #run improvement
     for testimony_code in testimony_codes:
         print('testimony_code:',testimony_code)
-        subprocess.run(["python", "CASPER_main.py", f"--testimony_code={testimony_code}", f"--attribute_list={attribute_list}", f"--max_n={max_n}", f"--cuda_id={cuda_id}", f"--summarization_model={summarization_model}" ,f"--improvement_model={improvement_model}"]) 
+        subprocess.run(["python", "GANS_main.py", f"--testimony_code={testimony_code}", f"--attribute_list={attribute_list}", f"--max_n={max_n}", f"--cuda_id={cuda_id}", f"--summarization_model={summarization_model}" ,f"--improvement_model={improvement_model}"]) 
         
     #run evaluation   
     mode='evaluation'
-    subprocess.run(["python", "CASPER_main.py", f"--max_n={max_n}", f"--events_list={events_list}", f"--cuda_id={cuda_id}", f"--mode={mode}", f"--summarization_model={summarization_model}", f"--improvement_model={improvement_model}"]) 
+    subprocess.run(["python", "GANS_main.py", f"--max_n={max_n}", f"--events_list={events_list}", f"--cuda_id={cuda_id}", f"--mode={mode}", f"--summarization_model={summarization_model}", f"--improvement_model={improvement_model}"]) 
 
 print('Enter the value of all the following variables to execute the model:-')
 events=input('Enter the list of events to be processed (e.g. 1-15): ')
