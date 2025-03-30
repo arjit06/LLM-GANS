@@ -8,14 +8,14 @@ A zero-shot LLM first generates attribute-specific summaries from raw testimonie
 
 ## Preparation of Environment
 
-Create a conda environment CASPER using the `environment.yml` file provided using the following command:
+Create a conda environment GANS using the `environment.yml` file provided using the following command:
 ```
-conda env create -f environment.yml --name CASPER
+conda env create -f environment.yml --name GANS
 ```
 
 Activate the environment:
 ```
-conda activate CASPER
+conda activate GANS
 ```
 
 Install PyTorch according to the CUDA version of the GPU you are using:
@@ -27,13 +27,14 @@ Now you are ready to execute the code.
 
 ## Executing the Code
 
-CASPER process executor is a menu-driven program that takes the input of all required variables from the user and then calls the CASPER main program separately for summarization, improvement, and evaluation.
+GANS process executor is a menu-driven program that takes the input of all required variables from the user and then calls the GANS main program separately for summarization, improvement, and evaluation.
 
 ### Execution Snapshot
 
 Below is a snapshot of the file in execution:
 
-![Execution Screenshot](https://github.com/user-attachments/assets/14bb14f0-9620-419d-84a6-74ffa32586fc)
+![Screenshot 2025-03-30 130851](https://github.com/user-attachments/assets/79f0b8e4-3d7d-4d13-a3e9-2aba5dcbbf1b)
+
 
 ### Input Parameters
 
